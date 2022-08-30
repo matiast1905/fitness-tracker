@@ -1,0 +1,1509 @@
+date,exercise,category,weight,reps,serie_load,week_of_year,week
+2022-05-23,Flat Barbell Bench Press,Chest,60,10,600,21,2022-05-22
+2022-05-23,Flat Barbell Bench Press,Chest,60,10,600,21,2022-05-22
+2022-05-23,Flat Barbell Bench Press,Chest,60,10,600,21,2022-05-22
+2022-05-23,Flat Barbell Bench Press,Chest,70,8,560,21,2022-05-22
+2022-05-23,Incline Dumbbell Bench Press,Chest,20,10,200,21,2022-05-22
+2022-05-23,Incline Dumbbell Bench Press,Chest,20,10,200,21,2022-05-22
+2022-05-23,Incline Dumbbell Bench Press,Chest,20,10,200,21,2022-05-22
+2022-05-23,Incline Dumbbell Bench Press,Chest,20,10,200,21,2022-05-22
+2022-05-23,Seated Machine Fly,Chest,35,10,350,21,2022-05-22
+2022-05-23,Seated Machine Fly,Chest,35,10,350,21,2022-05-22
+2022-05-23,Seated Machine Fly,Chest,35,10,350,21,2022-05-22
+2022-05-23,Seated Machine Fly,Chest,40,10,400,21,2022-05-22
+2022-05-23,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,12,150,21,2022-05-22
+2022-05-23,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,12,150,21,2022-05-22
+2022-05-23,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,12,150,21,2022-05-22
+2022-05-23,Lateral Dumbbell Raise,Shoulders,7.5,15,112.5,21,2022-05-22
+2022-05-23,Lateral Dumbbell Raise,Shoulders,10,10,100,21,2022-05-22
+2022-05-23,Lateral Dumbbell Raise,Shoulders,10,10,100,21,2022-05-22
+2022-05-23,Cable Face Pull,Shoulders,45,12,540,21,2022-05-22
+2022-05-23,Cable Face Pull,Shoulders,45,12,540,21,2022-05-22
+2022-05-23,Cable Face Pull,Shoulders,45,12,540,21,2022-05-22
+2022-05-23,Cable Face Pull,Shoulders,45,12,540,21,2022-05-22
+2022-05-23,EZ-Bar Skullcrusher,Triceps,28,12,336,21,2022-05-22
+2022-05-23,EZ-Bar Skullcrusher,Triceps,28,12,336,21,2022-05-22
+2022-05-23,EZ-Bar Skullcrusher,Triceps,30.5,10,305,21,2022-05-22
+2022-05-23,EZ-Bar Skullcrusher,Triceps,30.5,10,305,21,2022-05-22
+2022-05-23,Rope Push Down,Triceps,45,10,450,21,2022-05-22
+2022-05-23,Rope Push Down,Triceps,45,10,450,21,2022-05-22
+2022-05-23,Rope Push Down,Triceps,45,12,540,21,2022-05-22
+2022-05-23,Rope Push Down,Triceps,45,12,540,21,2022-05-22
+2022-05-24,Deadlift,Back,60,8,480,21,2022-05-22
+2022-05-24,Deadlift,Back,60,8,480,21,2022-05-22
+2022-05-24,Deadlift,Back,80,6,480,21,2022-05-22
+2022-05-24,Deadlift,Back,80,6,480,21,2022-05-22
+2022-05-24,Deadlift,Back,90,5,450,21,2022-05-22
+2022-05-24,Hip Thrust,Legs,82,10,820,21,2022-05-22
+2022-05-24,Hip Thrust,Legs,82,10,820,21,2022-05-22
+2022-05-24,Hip Thrust,Legs,82,10,820,21,2022-05-22
+2022-05-24,Nordic Curl,Legs,1,10,10,21,2022-05-22
+2022-05-24,Nordic Curl,Legs,1,10,10,21,2022-05-22
+2022-05-24,Nordic Curl,Legs,1,10,10,21,2022-05-22
+2022-05-24,Lying Leg Curl Machine,Legs,25,10,250,21,2022-05-22
+2022-05-24,Lying Leg Curl Machine,Legs,25,10,250,21,2022-05-22
+2022-05-24,Lying Leg Curl Machine,Legs,25,10,250,21,2022-05-22
+2022-05-24,Lying Leg Curl Machine,Legs,25,10,250,21,2022-05-22
+2022-05-24,Seated Cable Row,Back,45,10,450,21,2022-05-22
+2022-05-24,Seated Cable Row,Back,50,10,500,21,2022-05-22
+2022-05-24,Seated Cable Row,Back,55,8,440,21,2022-05-22
+2022-05-24,Seated Cable Row,Back,55,8,440,21,2022-05-22
+2022-05-24,Lat Pulldown (1 Arm Seated),Back,35,12,420,21,2022-05-22
+2022-05-24,Lat Pulldown (1 Arm Seated),Back,45,12,540,21,2022-05-22
+2022-05-24,Lat Pulldown (1 Arm Seated),Back,58,12,696,21,2022-05-22
+2022-05-24,Lat Pulldown (1 Arm Seated),Back,58,12,696,21,2022-05-22
+2022-05-24,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,21,2022-05-22
+2022-05-24,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,21,2022-05-22
+2022-05-24,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,21,2022-05-22
+2022-05-26,Barbell Squat,Legs,52,8,416,21,2022-05-22
+2022-05-26,Barbell Squat,Legs,62,8,496,21,2022-05-22
+2022-05-26,Barbell Squat,Legs,72,8,576,21,2022-05-22
+2022-05-26,Bulgarian Squat,Legs,20,10,200,21,2022-05-22
+2022-05-26,Bulgarian Squat,Legs,20,10,200,21,2022-05-22
+2022-05-26,Bulgarian Squat,Legs,20,10,200,21,2022-05-22
+2022-05-26,Leg Extension Machine,Legs,40,12,480,21,2022-05-22
+2022-05-26,Leg Extension Machine,Legs,45,10,450,21,2022-05-22
+2022-05-26,Leg Extension Machine,Legs,50,10,500,21,2022-05-22
+2022-05-26,Leg Extension Machine,Legs,50,10,500,21,2022-05-22
+2022-05-26,Seated Adductor,Legs,35,12,420,21,2022-05-22
+2022-05-26,Seated Adductor,Legs,40,12,480,21,2022-05-22
+2022-05-26,Seated Adductor,Legs,45,11,495,21,2022-05-22
+2022-05-26,Seated Adductor,Legs,50,11,550,21,2022-05-22
+2022-05-26,Seated Calf Raise Machine,Legs,50,15,750,21,2022-05-22
+2022-05-26,Seated Calf Raise Machine,Legs,65,12,780,21,2022-05-22
+2022-05-26,Seated Calf Raise Machine,Legs,76,10,760,21,2022-05-22
+2022-05-26,Seated Calf Raise Machine,Legs,76,10,760,21,2022-05-22
+2022-05-26,Incline Barbell Bench Press,Chest,20,15,300,21,2022-05-22
+2022-05-26,Incline Barbell Bench Press,Chest,30,12,360,21,2022-05-22
+2022-05-26,Incline Barbell Bench Press,Chest,40,10,400,21,2022-05-22
+2022-05-26,Incline Barbell Bench Press,Chest,40,10,400,21,2022-05-22
+2022-05-26,Lateral Machine Raise (1 Arm),Shoulders,5,15,75,21,2022-05-22
+2022-05-26,Lateral Machine Raise (1 Arm),Shoulders,5,15,75,21,2022-05-22
+2022-05-26,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,21,2022-05-22
+2022-05-27,Inverted Row TRX,Back,1,10,10,21,2022-05-22
+2022-05-27,Inverted Row TRX,Back,1,10,10,21,2022-05-22
+2022-05-27,Inverted Row TRX,Back,1,9,9,21,2022-05-22
+2022-05-27,Inverted Row TRX,Back,1,7,7,21,2022-05-22
+2022-05-27,Barbell Row,Back,50,12,600,21,2022-05-22
+2022-05-27,Barbell Row,Back,50,12,600,21,2022-05-22
+2022-05-27,Barbell Row,Back,60,10,600,21,2022-05-22
+2022-05-27,Barbell Row,Back,60,10,600,21,2022-05-22
+2022-05-27,Lat Pulldown,Back,60,12,720,21,2022-05-22
+2022-05-27,Lat Pulldown,Back,65,10,650,21,2022-05-22
+2022-05-27,Lat Pulldown,Back,65,10,650,21,2022-05-22
+2022-05-27,Lat Pulldown,Back,70,8,560,21,2022-05-22
+2022-05-27,Dumbbell Row (1 Arm),Back,25,15,375,21,2022-05-22
+2022-05-27,Dumbbell Row (1 Arm),Back,25,15,375,21,2022-05-22
+2022-05-27,Dumbbell Row (1 Arm),Back,27.5,12,330,21,2022-05-22
+2022-05-27,Dumbbell Curl (1 Arm),Biceps,15,12,180,21,2022-05-22
+2022-05-27,Dumbbell Curl (1 Arm),Biceps,15,12,180,21,2022-05-22
+2022-05-27,Dumbbell Curl (1 Arm),Biceps,15,10,150,21,2022-05-22
+2022-05-27,EZ-Bar Preacher Curl,Biceps,28,10,280,21,2022-05-22
+2022-05-27,EZ-Bar Preacher Curl,Biceps,28,11,308,21,2022-05-22
+2022-05-27,EZ-Bar Preacher Curl,Biceps,33,6,198,21,2022-05-22
+2022-05-27,Seated Incline Dumbbell Curl,Biceps,10,10,100,21,2022-05-22
+2022-05-27,Seated Incline Dumbbell Curl,Biceps,10,10,100,21,2022-05-22
+2022-05-27,Seated Incline Dumbbell Curl,Biceps,10,10,100,21,2022-05-22
+2022-05-30,Flat Barbell Bench Press,Chest,60,12,720,22,2022-05-29
+2022-05-30,Flat Barbell Bench Press,Chest,60,12,720,22,2022-05-29
+2022-05-30,Flat Barbell Bench Press,Chest,70,9,630,22,2022-05-29
+2022-05-30,Flat Barbell Bench Press,Chest,70,9,630,22,2022-05-29
+2022-05-30,Incline Dumbbell Bench Press,Chest,20,11,220,22,2022-05-29
+2022-05-30,Incline Dumbbell Bench Press,Chest,20,12,240,22,2022-05-29
+2022-05-30,Incline Dumbbell Bench Press,Chest,20,11,220,22,2022-05-29
+2022-05-30,Incline Dumbbell Bench Press,Chest,20,10,200,22,2022-05-29
+2022-05-30,Seated Machine Fly,Chest,35,15,525,22,2022-05-29
+2022-05-30,Seated Machine Fly,Chest,40,10,400,22,2022-05-29
+2022-05-30,Seated Machine Fly,Chest,40,10,400,22,2022-05-29
+2022-05-30,Cable Crossover,Chest,25,12,300,22,2022-05-29
+2022-05-30,Cable Crossover,Chest,25,12,300,22,2022-05-29
+2022-05-30,Cable Crossover,Chest,25,12,300,22,2022-05-29
+2022-05-30,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,13,162.5,22,2022-05-29
+2022-05-30,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,12,150,22,2022-05-29
+2022-05-30,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,12,150,22,2022-05-29
+2022-05-30,Lateral Dumbbell Raise,Shoulders,7.5,15,112.5,22,2022-05-29
+2022-05-30,Lateral Dumbbell Raise,Shoulders,10,11,110,22,2022-05-29
+2022-05-30,Lateral Dumbbell Raise,Shoulders,10,11,110,22,2022-05-29
+2022-05-30,Cable Face Pull,Shoulders,45,15,675,22,2022-05-29
+2022-05-30,Cable Face Pull,Shoulders,50,12,600,22,2022-05-29
+2022-05-30,Cable Face Pull,Shoulders,50,12,600,22,2022-05-29
+2022-05-30,EZ-Bar Skullcrusher,Triceps,28,12,336,22,2022-05-29
+2022-05-30,EZ-Bar Skullcrusher,Triceps,33,10,330,22,2022-05-29
+2022-05-30,EZ-Bar Skullcrusher,Triceps,33,10,330,22,2022-05-29
+2022-05-30,EZ-Bar Skullcrusher,Triceps,33,10,330,22,2022-05-29
+2022-05-30,Rope Push Down,Triceps,50,15,750,22,2022-05-29
+2022-05-30,Rope Push Down,Triceps,57.5,10,575,22,2022-05-29
+2022-05-30,Rope Push Down,Triceps,57.5,10,575,22,2022-05-29
+2022-05-30,Rope Push Down,Triceps,57.5,10,575,22,2022-05-29
+2022-05-31,Deadlift,Back,60,8,480,22,2022-05-29
+2022-05-31,Deadlift,Back,80,7,560,22,2022-05-29
+2022-05-31,Deadlift,Back,80,7,560,22,2022-05-29
+2022-05-31,Deadlift,Back,90,6,540,22,2022-05-29
+2022-05-31,Deadlift,Back,100,5,500,22,2022-05-29
+2022-05-31,Hip Thrust,Legs,80,10,800,22,2022-05-29
+2022-05-31,Hip Thrust,Legs,80,10,800,22,2022-05-29
+2022-05-31,Hip Thrust,Legs,80,10,800,22,2022-05-29
+2022-05-31,Deadlift (1 Leg),Legs,10,10,100,22,2022-05-29
+2022-05-31,Deadlift (1 Leg),Legs,10,12,120,22,2022-05-29
+2022-05-31,Deadlift (1 Leg),Legs,12,10,120,22,2022-05-29
+2022-05-31,Nordic Curl,Legs,1,10,10,22,2022-05-29
+2022-05-31,Nordic Curl,Legs,1,8,8,22,2022-05-29
+2022-05-31,Nordic Curl,Legs,1,8,8,22,2022-05-29
+2022-05-31,Lying Leg Curl Machine,Legs,25,10,250,22,2022-05-29
+2022-05-31,Lying Leg Curl Machine,Legs,25,10,250,22,2022-05-29
+2022-05-31,Lying Leg Curl Machine,Legs,25,10,250,22,2022-05-29
+2022-05-31,Back Extension,Back,1,10,10,22,2022-05-29
+2022-05-31,Back Extension,Back,1,10,10,22,2022-05-29
+2022-05-31,Back Extension,Back,1,10,10,22,2022-05-29
+2022-05-31,Seated Cable Row,Back,50,12,600,22,2022-05-29
+2022-05-31,Seated Cable Row,Back,55,10,550,22,2022-05-29
+2022-05-31,Seated Cable Row,Back,55,10,550,22,2022-05-29
+2022-05-31,Seated Cable Row,Back,55,10,550,22,2022-05-29
+2022-05-31,Lat Pulldown (1 Arm Seated),Back,45,15,675,22,2022-05-29
+2022-05-31,Lat Pulldown (1 Arm Seated),Back,50,14,700,22,2022-05-29
+2022-05-31,Lat Pulldown (1 Arm Seated),Back,50,15,750,22,2022-05-29
+2022-05-31,Lat Pulldown (1 Arm Seated),Back,50,13,650,22,2022-05-29
+2022-05-31,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,22,2022-05-29
+2022-05-31,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,22,2022-05-29
+2022-05-31,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,22,2022-05-29
+2022-06-02,Inverted Row TRX,Back,1,11,11,22,2022-05-29
+2022-06-02,Inverted Row TRX,Back,1,10,10,22,2022-05-29
+2022-06-02,Inverted Row TRX,Back,1,10,10,22,2022-05-29
+2022-06-02,Inverted Row TRX,Back,1,7,7,22,2022-05-29
+2022-06-02,Barbell Row,Back,50,12,600,22,2022-05-29
+2022-06-02,Barbell Row,Back,60,10,600,22,2022-05-29
+2022-06-02,Barbell Row,Back,60,10,600,22,2022-05-29
+2022-06-02,Barbell Row,Back,60,11,660,22,2022-05-29
+2022-06-02,Lat Pulldown,Back,60,12,720,22,2022-05-29
+2022-06-02,Lat Pulldown,Back,65,10,650,22,2022-05-29
+2022-06-02,Lat Pulldown,Back,65,12,780,22,2022-05-29
+2022-06-02,Lat Pulldown,Back,70,7,490,22,2022-05-29
+2022-06-02,Dumbbell Row (1 Arm),Back,25,15,375,22,2022-05-29
+2022-06-02,Dumbbell Row (1 Arm),Back,25,15,375,22,2022-05-29
+2022-06-02,Dumbbell Row (1 Arm),Back,27.5,11,302.5,22,2022-05-29
+2022-06-02,Dumbbell Curl (1 Arm),Biceps,12,15,180,22,2022-05-29
+2022-06-02,Dumbbell Curl (1 Arm),Biceps,12,15,180,22,2022-05-29
+2022-06-02,Dumbbell Curl (1 Arm),Biceps,10,15,150,22,2022-05-29
+2022-06-02,EZ-Bar Preacher Curl,Biceps,28,12,336,22,2022-05-29
+2022-06-02,EZ-Bar Preacher Curl,Biceps,28,11,308,22,2022-05-29
+2022-06-02,EZ-Bar Preacher Curl,Biceps,28,11,308,22,2022-05-29
+2022-06-02,Seated Incline Dumbbell Curl,Biceps,10,10,100,22,2022-05-29
+2022-06-02,Seated Incline Dumbbell Curl,Biceps,12.5,8,100,22,2022-05-29
+2022-06-02,Seated Incline Dumbbell Curl,Biceps,12.5,7,87.5,22,2022-05-29
+2022-06-03,Barbell Squat,Legs,62,9,558,22,2022-05-29
+2022-06-03,Barbell Squat,Legs,72,8,576,22,2022-05-29
+2022-06-03,Barbell Squat,Legs,82,8,656,22,2022-05-29
+2022-06-03,Bulgarian Squat,Legs,20,10,200,22,2022-05-29
+2022-06-03,Bulgarian Squat,Legs,20,10,200,22,2022-05-29
+2022-06-03,Bulgarian Squat,Legs,20,10,200,22,2022-05-29
+2022-06-03,Leg Press,Legs,150,12,1800,22,2022-05-29
+2022-06-03,Leg Press,Legs,180,10,1800,22,2022-05-29
+2022-06-03,Leg Press,Legs,200,8,1600,22,2022-05-29
+2022-06-03,Leg Press,Legs,210,8,1680,22,2022-05-29
+2022-06-03,Leg Extension Machine,Legs,40,12,480,22,2022-05-29
+2022-06-03,Leg Extension Machine,Legs,45,12,540,22,2022-05-29
+2022-06-03,Leg Extension Machine,Legs,50,12,600,22,2022-05-29
+2022-06-03,Leg Extension Machine,Legs,55,11,605,22,2022-05-29
+2022-06-03,Seated Adductor,Legs,40,12,480,22,2022-05-29
+2022-06-03,Seated Adductor,Legs,45,12,540,22,2022-05-29
+2022-06-03,Seated Adductor,Legs,50,12,600,22,2022-05-29
+2022-06-03,Seated Adductor,Legs,55,10,550,22,2022-05-29
+2022-06-03,Seated Calf Raise Machine,Legs,55,15,825,22,2022-05-29
+2022-06-03,Seated Calf Raise Machine,Legs,65,12,780,22,2022-05-29
+2022-06-03,Seated Calf Raise Machine,Legs,65,12,780,22,2022-05-29
+2022-06-03,Seated Calf Raise Machine,Legs,75,12,900,22,2022-05-29
+2022-06-06,Flat Barbell Bench Press,Chest,60,15,900,23,2022-06-05
+2022-06-06,Flat Barbell Bench Press,Chest,70,10,700,23,2022-06-05
+2022-06-06,Flat Barbell Bench Press,Chest,70,8,560,23,2022-06-05
+2022-06-06,Flat Barbell Bench Press,Chest,70,12,840,23,2022-06-05
+2022-06-06,Incline Dumbbell Bench Press,Chest,20,12,240,23,2022-06-05
+2022-06-06,Incline Dumbbell Bench Press,Chest,20,11,220,23,2022-06-05
+2022-06-06,Incline Dumbbell Bench Press,Chest,20,10,200,23,2022-06-05
+2022-06-06,Seated Machine Fly,Chest,35,15,525,23,2022-06-05
+2022-06-06,Seated Machine Fly,Chest,40,12,480,23,2022-06-05
+2022-06-06,Seated Machine Fly,Chest,40,12,480,23,2022-06-05
+2022-06-06,Seated Machine Fly,Chest,40,10,400,23,2022-06-05
+2022-06-06,Cable Crossover,Chest,25,12,300,23,2022-06-05
+2022-06-06,Cable Crossover,Chest,25,12,300,23,2022-06-05
+2022-06-06,Cable Crossover,Chest,25,12,300,23,2022-06-05
+2022-06-06,Cable Crossover,Chest,25,12,300,23,2022-06-05
+2022-06-06,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,15,187.5,23,2022-06-05
+2022-06-06,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,14,175,23,2022-06-05
+2022-06-06,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,13,162.5,23,2022-06-05
+2022-06-06,Lateral Dumbbell Raise,Shoulders,10,12,120,23,2022-06-05
+2022-06-06,Lateral Dumbbell Raise,Shoulders,10,10,100,23,2022-06-05
+2022-06-06,Lateral Dumbbell Raise,Shoulders,10,10,100,23,2022-06-05
+2022-06-06,Cable Face Pull,Shoulders,45,15,675,23,2022-06-05
+2022-06-06,Cable Face Pull,Shoulders,50,15,750,23,2022-06-05
+2022-06-06,Cable Face Pull,Shoulders,50,12,600,23,2022-06-05
+2022-06-06,EZ-Bar Skullcrusher,Triceps,33,11,363,23,2022-06-05
+2022-06-06,EZ-Bar Skullcrusher,Triceps,33,11,363,23,2022-06-05
+2022-06-06,EZ-Bar Skullcrusher,Triceps,33,11,363,23,2022-06-05
+2022-06-06,Rope Push Down,Triceps,45,17,765,23,2022-06-05
+2022-06-06,Rope Push Down,Triceps,50,12,600,23,2022-06-05
+2022-06-06,Rope Push Down,Triceps,50,12,600,23,2022-06-05
+2022-06-07,Deadlift,Back,82,8,656,23,2022-06-05
+2022-06-07,Deadlift,Back,92,6,552,23,2022-06-05
+2022-06-07,Deadlift,Back,102,5,510,23,2022-06-05
+2022-06-07,Deadlift,Back,102,6,612,23,2022-06-05
+2022-06-07,Deadlift,Back,102,5,510,23,2022-06-05
+2022-06-07,Hip Thrust,Legs,80,10,800,23,2022-06-05
+2022-06-07,Hip Thrust,Legs,80,10,800,23,2022-06-05
+2022-06-07,Hip Thrust,Legs,80,11,880,23,2022-06-05
+2022-06-07,Deadlift (1 Leg),Legs,12.5,12,150,23,2022-06-05
+2022-06-07,Deadlift (1 Leg),Legs,12.5,11,137.5,23,2022-06-05
+2022-06-07,Deadlift (1 Leg),Legs,12.5,12,150,23,2022-06-05
+2022-06-07,Nordic Curl,Legs,1,10,10,23,2022-06-05
+2022-06-07,Nordic Curl,Legs,1,9,9,23,2022-06-05
+2022-06-07,Nordic Curl,Legs,1,8,8,23,2022-06-05
+2022-06-07,Lying Leg Curl Machine,Legs,25,10,250,23,2022-06-05
+2022-06-07,Lying Leg Curl Machine,Legs,25,10,250,23,2022-06-05
+2022-06-07,Lying Leg Curl Machine,Legs,25,10,250,23,2022-06-05
+2022-06-07,Seated Cable Row,Back,55,12,660,23,2022-06-05
+2022-06-07,Seated Cable Row,Back,55,10,550,23,2022-06-05
+2022-06-07,Seated Cable Row,Back,55,10,550,23,2022-06-05
+2022-06-07,Lat Pulldown (1 Arm Seated),Back,50,12,600,23,2022-06-05
+2022-06-07,Lat Pulldown (1 Arm Seated),Back,50,10,500,23,2022-06-05
+2022-06-09,Barbell Squat,Legs,70,9,630,23,2022-06-05
+2022-06-09,Barbell Squat,Legs,80,8,640,23,2022-06-05
+2022-06-09,Barbell Squat,Legs,90,6,540,23,2022-06-05
+2022-06-09,Barbell Squat,Legs,100,4,400,23,2022-06-05
+2022-06-09,Bulgarian Squat,Legs,20,10,200,23,2022-06-05
+2022-06-09,Bulgarian Squat,Legs,20,10,200,23,2022-06-05
+2022-06-09,Bulgarian Squat,Legs,20,12,240,23,2022-06-05
+2022-06-09,Leg Press,Legs,190,10,1900,23,2022-06-05
+2022-06-09,Leg Press,Legs,200,10,2000,23,2022-06-05
+2022-06-09,Leg Press,Legs,220,8,1760,23,2022-06-05
+2022-06-09,Leg Press,Legs,220,8,1760,23,2022-06-05
+2022-06-09,Seated Adductor,Legs,50,12,600,23,2022-06-05
+2022-06-09,Seated Adductor,Legs,55,12,660,23,2022-06-05
+2022-06-09,Seated Adductor,Legs,55,12,660,23,2022-06-05
+2022-06-09,Seated Adductor,Legs,55,10,550,23,2022-06-05
+2022-06-09,Seated Calf Raise Machine,Legs,65,14,910,23,2022-06-05
+2022-06-09,Seated Calf Raise Machine,Legs,65,13,845,23,2022-06-05
+2022-06-09,Seated Calf Raise Machine,Legs,65,12,780,23,2022-06-05
+2022-06-09,Seated Calf Raise Machine,Legs,65,12,780,23,2022-06-05
+2022-06-09,Incline Barbell Bench Press,Chest,40,15,600,23,2022-06-05
+2022-06-09,Incline Barbell Bench Press,Chest,50,12,600,23,2022-06-05
+2022-06-09,Incline Barbell Bench Press,Chest,50,12,600,23,2022-06-05
+2022-06-09,Incline Barbell Bench Press,Chest,50,12,600,23,2022-06-05
+2022-06-09,Military Press,Shoulders,20,15,300,23,2022-06-05
+2022-06-09,Military Press,Shoulders,20,15,300,23,2022-06-05
+2022-06-09,Military Press,Shoulders,20,15,300,23,2022-06-05
+2022-06-09,Lateral Machine Raise (1 Arm),Shoulders,5,15,75,23,2022-06-05
+2022-06-09,Lateral Machine Raise (1 Arm),Shoulders,5,15,75,23,2022-06-05
+2022-06-09,Lateral Machine Raise (1 Arm),Shoulders,5,15,75,23,2022-06-05
+2022-06-10,Inverted Row TRX,Back,1,12,12,23,2022-06-05
+2022-06-10,Inverted Row TRX,Back,1,12,12,23,2022-06-05
+2022-06-10,Inverted Row TRX,Back,1,11,11,23,2022-06-05
+2022-06-10,Inverted Row TRX,Back,1,8,8,23,2022-06-05
+2022-06-10,Barbell Row,Back,60,10,600,23,2022-06-05
+2022-06-10,Barbell Row,Back,60,12,720,23,2022-06-05
+2022-06-10,Barbell Row,Back,60,10,600,23,2022-06-05
+2022-06-10,Barbell Row,Back,60,10,600,23,2022-06-05
+2022-06-10,Lat Pulldown,Back,60,15,900,23,2022-06-05
+2022-06-10,Lat Pulldown,Back,65,10,650,23,2022-06-05
+2022-06-10,Lat Pulldown,Back,65,9,585,23,2022-06-05
+2022-06-10,Lat Pulldown,Back,65,9,585,23,2022-06-05
+2022-06-10,Dumbbell Row (1 Arm),Back,27.5,11,302.5,23,2022-06-05
+2022-06-10,Dumbbell Row (1 Arm),Back,27.5,12,330,23,2022-06-05
+2022-06-10,Dumbbell Row (1 Arm),Back,27.5,13,357.5,23,2022-06-05
+2022-06-10,Dumbbell Curl (1 Arm),Biceps,15,13,195,23,2022-06-05
+2022-06-10,Dumbbell Curl (1 Arm),Biceps,15,11,165,23,2022-06-05
+2022-06-10,Dumbbell Curl (1 Arm),Biceps,15,11,165,23,2022-06-05
+2022-06-10,EZ-Bar Preacher Curl,Biceps,28,14,392,23,2022-06-05
+2022-06-10,EZ-Bar Preacher Curl,Biceps,28,9,252,23,2022-06-05
+2022-06-10,EZ-Bar Preacher Curl,Biceps,28,9,252,23,2022-06-05
+2022-06-10,Seated Incline Dumbbell Curl,Biceps,10,12,120,23,2022-06-05
+2022-06-10,Seated Incline Dumbbell Curl,Biceps,10,12,120,23,2022-06-05
+2022-06-10,Seated Incline Dumbbell Curl,Biceps,10,12,120,23,2022-06-05
+2022-06-13,Flat Barbell Bench Press,Chest,70,10,700,24,2022-06-12
+2022-06-13,Flat Barbell Bench Press,Chest,70,9,630,24,2022-06-12
+2022-06-13,Flat Barbell Bench Press,Chest,80,5,400,24,2022-06-12
+2022-06-13,Flat Barbell Bench Press,Chest,80,6,480,24,2022-06-12
+2022-06-13,Incline Dumbbell Bench Press,Chest,22.5,13,292.5,24,2022-06-12
+2022-06-13,Incline Dumbbell Bench Press,Chest,22.5,8,180,24,2022-06-12
+2022-06-13,Incline Dumbbell Bench Press,Chest,22.5,9,202.5,24,2022-06-12
+2022-06-13,Incline Dumbbell Bench Press,Chest,22.5,9,202.5,24,2022-06-12
+2022-06-13,Seated Machine Fly,Chest,40,15,600,24,2022-06-12
+2022-06-13,Seated Machine Fly,Chest,40,15,600,24,2022-06-12
+2022-06-13,Seated Machine Fly,Chest,40,13,520,24,2022-06-12
+2022-06-13,Seated Machine Fly,Chest,40,11,440,24,2022-06-12
+2022-06-13,Cable Crossover,Chest,30,12,360,24,2022-06-12
+2022-06-13,Cable Crossover,Chest,30,9,270,24,2022-06-12
+2022-06-13,Cable Crossover,Chest,30,10,300,24,2022-06-12
+2022-06-13,Cable Crossover,Chest,30,9,270,24,2022-06-12
+2022-06-13,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,14,175,24,2022-06-12
+2022-06-13,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,14,175,24,2022-06-12
+2022-06-13,Arnold Dumbbell Press (1 Arm),Shoulders,12.5,14,175,24,2022-06-12
+2022-06-13,Lateral Dumbbell Raise,Shoulders,10,14,140,24,2022-06-12
+2022-06-13,Lateral Dumbbell Raise,Shoulders,10,13,130,24,2022-06-12
+2022-06-13,Lateral Dumbbell Raise,Shoulders,10,12,120,24,2022-06-12
+2022-06-13,Cable Face Pull,Shoulders,50,15,750,24,2022-06-12
+2022-06-13,Cable Face Pull,Shoulders,50,15,750,24,2022-06-12
+2022-06-13,Cable Face Pull,Shoulders,50,15,750,24,2022-06-12
+2022-06-13,EZ-Bar Skullcrusher,Triceps,33,11,363,24,2022-06-12
+2022-06-13,EZ-Bar Skullcrusher,Triceps,33,11,363,24,2022-06-12
+2022-06-13,EZ-Bar Skullcrusher,Triceps,33,11,363,24,2022-06-12
+2022-06-13,Rope Push Down,Triceps,50,15,750,24,2022-06-12
+2022-06-13,Rope Push Down,Triceps,57.5,14,805,24,2022-06-12
+2022-06-13,Rope Push Down,Triceps,57.5,10,575,24,2022-06-12
+2022-06-13,Rope Push Down,Triceps,57.5,10,575,24,2022-06-12
+2022-06-14,Deadlift,Back,80,8,640,24,2022-06-12
+2022-06-14,Deadlift,Back,100,6,600,24,2022-06-12
+2022-06-14,Deadlift,Back,110,4,440,24,2022-06-12
+2022-06-14,Deadlift,Back,110,5,550,24,2022-06-12
+2022-06-14,Deadlift,Back,110,5,550,24,2022-06-12
+2022-06-14,Hip Thrust,Legs,80,13,1040,24,2022-06-12
+2022-06-14,Hip Thrust,Legs,90,10,900,24,2022-06-12
+2022-06-14,Hip Thrust,Legs,90,10,900,24,2022-06-12
+2022-06-14,Hip Thrust,Legs,95,7,665,24,2022-06-12
+2022-06-14,Deadlift (1 Leg),Legs,12.5,12,150,24,2022-06-12
+2022-06-14,Deadlift (1 Leg),Legs,15,10,150,24,2022-06-12
+2022-06-14,Deadlift (1 Leg),Legs,15,10,150,24,2022-06-12
+2022-06-14,Nordic Curl,Legs,1,10,10,24,2022-06-12
+2022-06-14,Nordic Curl,Legs,1,10,10,24,2022-06-12
+2022-06-14,Nordic Curl,Legs,1,10,10,24,2022-06-12
+2022-06-14,Lying Leg Curl Machine,Legs,25,10,250,24,2022-06-12
+2022-06-14,Lying Leg Curl Machine,Legs,25,10,250,24,2022-06-12
+2022-06-14,Lying Leg Curl Machine,Legs,25,10,250,24,2022-06-12
+2022-06-14,Back Extension,Back,1,10,10,24,2022-06-12
+2022-06-14,Back Extension,Back,1,10,10,24,2022-06-12
+2022-06-14,Back Extension,Back,1,10,10,24,2022-06-12
+2022-06-14,Seated Cable Row,Back,55,12,660,24,2022-06-12
+2022-06-14,Seated Cable Row,Back,55,12,660,24,2022-06-12
+2022-06-14,Seated Cable Row,Back,55,12,660,24,2022-06-12
+2022-06-14,Lat Pulldown (1 Arm Seated),Back,50,15,750,24,2022-06-12
+2022-06-14,Lat Pulldown (1 Arm Seated),Back,50,15,750,24,2022-06-12
+2022-06-14,Lat Pulldown (1 Arm Seated),Back,50,15,750,24,2022-06-12
+2022-06-14,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,24,2022-06-12
+2022-06-14,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,24,2022-06-12
+2022-06-14,Reverse Fly (Dumbbell),Shoulders,7.5,12,90,24,2022-06-12
+2022-06-16,Inverted Row TRX,Back,1,12,12,24,2022-06-12
+2022-06-16,Inverted Row TRX,Back,1,10,10,24,2022-06-12
+2022-06-16,Inverted Row TRX,Back,1,10,10,24,2022-06-12
+2022-06-16,Inverted Row TRX,Back,1,8,8,24,2022-06-12
+2022-06-16,Barbell Row,Back,60,12,720,24,2022-06-12
+2022-06-16,Barbell Row,Back,60,12,720,24,2022-06-12
+2022-06-16,Barbell Row,Back,60,12,720,24,2022-06-12
+2022-06-16,Barbell Row,Back,60,12,720,24,2022-06-12
+2022-06-16,Lat Pulldown,Back,65,12,780,24,2022-06-12
+2022-06-16,Lat Pulldown,Back,65,12,780,24,2022-06-12
+2022-06-16,Lat Pulldown,Back,70,8,560,24,2022-06-12
+2022-06-16,Lat Pulldown,Back,70,8,560,24,2022-06-12
+2022-06-16,Dumbbell Row (1 Arm),Back,27.5,15,412.5,24,2022-06-12
+2022-06-16,Dumbbell Row (1 Arm),Back,27.5,15,412.5,24,2022-06-12
+2022-06-16,Dumbbell Row (1 Arm),Back,27.5,12,330,24,2022-06-12
+2022-06-16,Dumbbell Curl (1 Arm),Biceps,15,15,225,24,2022-06-12
+2022-06-16,Dumbbell Curl (1 Arm),Biceps,15,12,180,24,2022-06-12
+2022-06-16,Dumbbell Curl (1 Arm),Biceps,15,10,150,24,2022-06-12
+2022-06-16,EZ-Bar Preacher Curl,Biceps,33,8,264,24,2022-06-12
+2022-06-16,EZ-Bar Preacher Curl,Biceps,33,7,231,24,2022-06-12
+2022-06-16,EZ-Bar Preacher Curl,Biceps,28,8,224,24,2022-06-12
+2022-06-16,EZ-Bar Preacher Curl,Biceps,28,7,196,24,2022-06-12
+2022-06-16,Seated Incline Dumbbell Curl,Biceps,10,12,120,24,2022-06-12
+2022-06-16,Seated Incline Dumbbell Curl,Biceps,10,12,120,24,2022-06-12
+2022-06-16,Seated Incline Dumbbell Curl,Biceps,10,12,120,24,2022-06-12
+2022-06-16,Seated Incline Dumbbell Curl,Biceps,10,12,120,24,2022-06-12
+2022-06-20,Flat Barbell Bench Press,Chest,70,12,840,25,2022-06-19
+2022-06-20,Flat Barbell Bench Press,Chest,70,12,840,25,2022-06-19
+2022-06-20,Flat Barbell Bench Press,Chest,70,12,840,25,2022-06-19
+2022-06-20,Flat Barbell Bench Press,Chest,80,9,720,25,2022-06-19
+2022-06-20,Incline Dumbbell Bench Press,Chest,22.5,12,270,25,2022-06-19
+2022-06-20,Incline Dumbbell Bench Press,Chest,22.5,9,202.5,25,2022-06-19
+2022-06-20,Incline Dumbbell Bench Press,Chest,22.5,7,157.5,25,2022-06-19
+2022-06-20,Incline Dumbbell Bench Press,Chest,22.5,10,225,25,2022-06-19
+2022-06-20,Seated Machine Fly,Chest,40,15,600,25,2022-06-19
+2022-06-20,Seated Machine Fly,Chest,40,15,600,25,2022-06-19
+2022-06-20,Seated Machine Fly,Chest,45,9,405,25,2022-06-19
+2022-06-20,Seated Machine Fly,Chest,45,9,405,25,2022-06-19
+2022-06-20,Cable Crossover,Chest,30,10,300,25,2022-06-19
+2022-06-20,Cable Crossover,Chest,30,8,240,25,2022-06-19
+2022-06-20,Cable Crossover,Chest,30,8,240,25,2022-06-19
+2022-06-20,Cable Crossover,Chest,30,8,240,25,2022-06-19
+2022-06-20,Arnold Dumbbell Press (1 Arm),Shoulders,15,11,165,25,2022-06-19
+2022-06-20,Arnold Dumbbell Press (1 Arm),Shoulders,15,11,165,25,2022-06-19
+2022-06-20,Arnold Dumbbell Press (1 Arm),Shoulders,15,10,150,25,2022-06-19
+2022-06-20,Lateral Dumbbell Raise,Shoulders,10,15,150,25,2022-06-19
+2022-06-20,Lateral Dumbbell Raise,Shoulders,10,10,100,25,2022-06-19
+2022-06-20,Lateral Dumbbell Raise,Shoulders,10,10,100,25,2022-06-19
+2022-06-20,Cable Face Pull,Shoulders,50,15,750,25,2022-06-19
+2022-06-20,Cable Face Pull,Shoulders,57.5,12,690,25,2022-06-19
+2022-06-20,Cable Face Pull,Shoulders,57.5,12,690,25,2022-06-19
+2022-06-20,Cable Face Pull,Shoulders,57.5,12,690,25,2022-06-19
+2022-06-20,EZ-Bar Skullcrusher,Triceps,33,11,363,25,2022-06-19
+2022-06-20,EZ-Bar Skullcrusher,Triceps,33,11,363,25,2022-06-19
+2022-06-20,EZ-Bar Skullcrusher,Triceps,33,11,363,25,2022-06-19
+2022-06-20,Rope Push Down,Triceps,50,15,750,25,2022-06-19
+2022-06-20,Rope Push Down,Triceps,57.5,10,575,25,2022-06-19
+2022-06-20,Rope Push Down,Triceps,57.5,10,575,25,2022-06-19
+2022-06-20,Rope Push Down,Triceps,57.5,8,460,25,2022-06-19
+2022-06-21,Deadlift,Back,80,8,640,25,2022-06-19
+2022-06-21,Deadlift,Back,100,6,600,25,2022-06-19
+2022-06-21,Deadlift,Back,110,6,660,25,2022-06-19
+2022-06-21,Deadlift,Back,120,6,720,25,2022-06-19
+2022-06-21,Deadlift,Back,120,5,600,25,2022-06-19
+2022-06-21,Hip Thrust,Legs,90,10,900,25,2022-06-19
+2022-06-21,Hip Thrust,Legs,90,10,900,25,2022-06-19
+2022-06-21,Hip Thrust,Legs,90,11,990,25,2022-06-19
+2022-06-21,Hip Thrust,Legs,90,10,900,25,2022-06-19
+2022-06-21,Deadlift (1 Leg),Legs,10,15,150,25,2022-06-19
+2022-06-21,Deadlift (1 Leg),Legs,10,15,150,25,2022-06-19
+2022-06-21,Deadlift (1 Leg),Legs,10,15,150,25,2022-06-19
+2022-06-21,Nordic Curl,Legs,1,10,10,25,2022-06-19
+2022-06-21,Nordic Curl,Legs,1,10,10,25,2022-06-19
+2022-06-21,Nordic Curl,Legs,1,10,10,25,2022-06-19
+2022-06-21,Lying Leg Curl Machine,Legs,25,12,300,25,2022-06-19
+2022-06-21,Lying Leg Curl Machine,Legs,25,12,300,25,2022-06-19
+2022-06-21,Lying Leg Curl Machine,Legs,25,12,300,25,2022-06-19
+2022-06-21,Lying Leg Curl Machine,Legs,25,12,300,25,2022-06-19
+2022-06-21,Back Extension,Back,1,15,15,25,2022-06-19
+2022-06-21,Back Extension,Back,1,15,15,25,2022-06-19
+2022-06-21,Back Extension,Back,1,15,15,25,2022-06-19
+2022-06-21,Back Extension,Back,1,15,15,25,2022-06-19
+2022-06-21,Seated Cable Row,Back,60,10,600,25,2022-06-19
+2022-06-21,Seated Cable Row,Back,60,10,600,25,2022-06-19
+2022-06-21,Seated Cable Row,Back,60,10,600,25,2022-06-19
+2022-06-21,Seated Cable Row,Back,60,10,600,25,2022-06-19
+2022-06-21,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,25,2022-06-19
+2022-06-21,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,25,2022-06-19
+2022-06-21,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,25,2022-06-19
+2022-06-23,Inverted Row TRX,Back,1,10,10,25,2022-06-19
+2022-06-23,Inverted Row TRX,Back,1,10,10,25,2022-06-19
+2022-06-23,Inverted Row TRX,Back,1,10,10,25,2022-06-19
+2022-06-23,Inverted Row TRX,Back,1,10,10,25,2022-06-19
+2022-06-23,Barbell Row,Back,60,15,900,25,2022-06-19
+2022-06-23,Barbell Row,Back,70,10,700,25,2022-06-19
+2022-06-23,Barbell Row,Back,70,10,700,25,2022-06-19
+2022-06-23,Barbell Row,Back,70,10,700,25,2022-06-19
+2022-06-23,Lat Pulldown,Back,65,12,780,25,2022-06-19
+2022-06-23,Lat Pulldown,Back,65,11,715,25,2022-06-19
+2022-06-23,Lat Pulldown,Back,70,7,490,25,2022-06-19
+2022-06-23,Lat Pulldown,Back,70,10,700,25,2022-06-19
+2022-06-23,Dumbbell Row (1 Arm),Back,30,12,360,25,2022-06-19
+2022-06-23,Dumbbell Row (1 Arm),Back,30,12,360,25,2022-06-19
+2022-06-23,Dumbbell Row (1 Arm),Back,30,12,360,25,2022-06-19
+2022-06-23,Dumbbell Row (1 Arm),Back,30,12,360,25,2022-06-19
+2022-06-23,Dumbbell Curl (1 Arm),Biceps,12.5,15,187.5,25,2022-06-19
+2022-06-23,Dumbbell Curl (1 Arm),Biceps,12.5,15,187.5,25,2022-06-19
+2022-06-23,Dumbbell Curl (1 Arm),Biceps,12.5,15,187.5,25,2022-06-19
+2022-06-23,EZ-Bar Preacher Curl,Biceps,28,12,336,25,2022-06-19
+2022-06-23,EZ-Bar Preacher Curl,Biceps,28,11,308,25,2022-06-19
+2022-06-23,EZ-Bar Preacher Curl,Biceps,28,8,224,25,2022-06-19
+2022-06-23,EZ-Bar Preacher Curl,Biceps,28,7,196,25,2022-06-19
+2022-06-23,Seated Incline Dumbbell Curl,Biceps,10,12,120,25,2022-06-19
+2022-06-23,Seated Incline Dumbbell Curl,Biceps,10,10,100,25,2022-06-19
+2022-06-23,Seated Incline Dumbbell Curl,Biceps,10,10,100,25,2022-06-19
+2022-06-23,Seated Incline Dumbbell Curl,Biceps,10,12,120,25,2022-06-19
+2022-06-24,Barbell Squat,Legs,80,8,640,25,2022-06-19
+2022-06-24,Barbell Squat,Legs,90,7,630,25,2022-06-19
+2022-06-24,Barbell Squat,Legs,90,6,540,25,2022-06-19
+2022-06-24,Barbell Squat,Legs,90,5,450,25,2022-06-19
+2022-06-24,Barbell Squat,Legs,90,5,450,25,2022-06-19
+2022-06-24,Bulgarian Squat,Legs,25,10,250,25,2022-06-19
+2022-06-24,Bulgarian Squat,Legs,25,10,250,25,2022-06-19
+2022-06-24,Bulgarian Squat,Legs,25,10,250,25,2022-06-19
+2022-06-24,Leg Press,Legs,190,10,1900,25,2022-06-19
+2022-06-24,Leg Press,Legs,210,9,1890,25,2022-06-19
+2022-06-24,Leg Press,Legs,220,8,1760,25,2022-06-19
+2022-06-24,Leg Press,Legs,220,6,1320,25,2022-06-19
+2022-06-24,Seated Adductor,Legs,50,12,600,25,2022-06-19
+2022-06-24,Seated Adductor,Legs,55,12,660,25,2022-06-19
+2022-06-24,Seated Adductor,Legs,55,12,660,25,2022-06-19
+2022-06-24,Seated Adductor,Legs,55,12,660,25,2022-06-19
+2022-06-24,Seated Calf Raise Machine,Legs,65,15,975,25,2022-06-19
+2022-06-24,Seated Calf Raise Machine,Legs,70,14,980,25,2022-06-19
+2022-06-24,Seated Calf Raise Machine,Legs,70,14,980,25,2022-06-19
+2022-06-24,Seated Calf Raise Machine,Legs,70,14,980,25,2022-06-19
+2022-06-24,Lateral Machine Raise (1 Arm),Shoulders,5,15,75,25,2022-06-19
+2022-06-24,Lateral Machine Raise (1 Arm),Shoulders,10,12,120,25,2022-06-19
+2022-06-24,Lateral Machine Raise (1 Arm),Shoulders,10,12,120,25,2022-06-19
+2022-06-27,Flat Barbell Bench Press,Chest,70,12,840,26,2022-06-26
+2022-06-27,Flat Barbell Bench Press,Chest,70,10,700,26,2022-06-26
+2022-06-27,Flat Barbell Bench Press,Chest,70,11,770,26,2022-06-26
+2022-06-27,Flat Barbell Bench Press,Chest,70,8,560,26,2022-06-26
+2022-06-27,Incline Dumbbell Bench Press,Chest,22.5,12,270,26,2022-06-26
+2022-06-27,Incline Dumbbell Bench Press,Chest,22.5,12,270,26,2022-06-26
+2022-06-27,Incline Dumbbell Bench Press,Chest,22.5,10,225,26,2022-06-26
+2022-06-27,Incline Dumbbell Bench Press,Chest,22.5,9,202.5,26,2022-06-26
+2022-06-27,Seated Machine Fly,Chest,40,15,600,26,2022-06-26
+2022-06-27,Seated Machine Fly,Chest,40,12,480,26,2022-06-26
+2022-06-27,Seated Machine Fly,Chest,40,12,480,26,2022-06-26
+2022-06-27,Seated Machine Fly,Chest,40,12,480,26,2022-06-26
+2022-06-27,Cable Crossover,Chest,25,12,300,26,2022-06-26
+2022-06-27,Cable Crossover,Chest,25,12,300,26,2022-06-26
+2022-06-27,Cable Crossover,Chest,25,12,300,26,2022-06-26
+2022-06-27,Cable Crossover,Chest,25,12,300,26,2022-06-26
+2022-06-27,Arnold Dumbbell Press (1 Arm),Shoulders,15,10,150,26,2022-06-26
+2022-06-27,Arnold Dumbbell Press (1 Arm),Shoulders,15,10,150,26,2022-06-26
+2022-06-27,Arnold Dumbbell Press (1 Arm),Shoulders,15,10,150,26,2022-06-26
+2022-06-27,Lateral Dumbbell Raise,Shoulders,7.5,15,112.5,26,2022-06-26
+2022-06-27,Lateral Dumbbell Raise,Shoulders,7.5,15,112.5,26,2022-06-26
+2022-06-27,Lateral Dumbbell Raise,Shoulders,7.5,15,112.5,26,2022-06-26
+2022-06-27,Cable Face Pull,Shoulders,50,15,750,26,2022-06-26
+2022-06-27,Cable Face Pull,Shoulders,50,15,750,26,2022-06-26
+2022-06-27,Cable Face Pull,Shoulders,50,15,750,26,2022-06-26
+2022-06-27,Cable Face Pull,Shoulders,50,12,600,26,2022-06-26
+2022-06-27,EZ-Bar Skullcrusher,Triceps,28,11,308,26,2022-06-26
+2022-06-27,EZ-Bar Skullcrusher,Triceps,28,11,308,26,2022-06-26
+2022-06-27,EZ-Bar Skullcrusher,Triceps,28,12,336,26,2022-06-26
+2022-06-27,Rope Push Down,Triceps,60,15,900,26,2022-06-26
+2022-06-27,Rope Push Down,Triceps,60,11,660,26,2022-06-26
+2022-06-27,Rope Push Down,Triceps,60,10,600,26,2022-06-26
+2022-06-27,Rope Push Down,Triceps,60,10,600,26,2022-06-26
+2022-06-28,Deadlift,Back,100,7,700,26,2022-06-26
+2022-06-28,Deadlift,Back,120,5,600,26,2022-06-26
+2022-06-28,Deadlift,Back,130,4,520,26,2022-06-26
+2022-06-28,Deadlift,Back,130,4,520,26,2022-06-26
+2022-06-28,Deadlift,Back,130,4,520,26,2022-06-26
+2022-06-28,Hip Thrust,Legs,100,8,800,26,2022-06-26
+2022-06-28,Hip Thrust,Legs,100,9,900,26,2022-06-26
+2022-06-28,Hip Thrust,Legs,100,8,800,26,2022-06-26
+2022-06-28,Hip Thrust,Legs,100,8,800,26,2022-06-26
+2022-06-28,Deadlift (1 Leg),Legs,15,12,180,26,2022-06-26
+2022-06-28,Deadlift (1 Leg),Legs,15,12,180,26,2022-06-26
+2022-06-28,Deadlift (1 Leg),Legs,15,12,180,26,2022-06-26
+2022-06-28,Nordic Curl,Legs,1,10,10,26,2022-06-26
+2022-06-28,Nordic Curl,Legs,1,10,10,26,2022-06-26
+2022-06-28,Nordic Curl,Legs,1,10,10,26,2022-06-26
+2022-06-28,Lying Leg Curl Machine,Legs,30,10,300,26,2022-06-26
+2022-06-28,Lying Leg Curl Machine,Legs,30,8,240,26,2022-06-26
+2022-06-28,Lying Leg Curl Machine,Legs,30,8,240,26,2022-06-26
+2022-06-28,Lying Leg Curl Machine,Legs,30,8,240,26,2022-06-26
+2022-06-28,Back Extension,Back,1,15,15,26,2022-06-26
+2022-06-28,Back Extension,Back,1,15,15,26,2022-06-26
+2022-06-28,Back Extension,Back,1,15,15,26,2022-06-26
+2022-06-28,Back Extension,Back,1,15,15,26,2022-06-26
+2022-06-28,Seated Cable Row,Back,60,11,660,26,2022-06-26
+2022-06-28,Seated Cable Row,Back,60,11,660,26,2022-06-26
+2022-06-28,Seated Cable Row,Back,60,10,600,26,2022-06-26
+2022-06-28,Seated Cable Row,Back,60,10,600,26,2022-06-26
+2022-06-28,Lat Pulldown (1 Arm Seated),Back,50,15,750,26,2022-06-26
+2022-06-28,Lat Pulldown (1 Arm Seated),Back,57.5,12,690,26,2022-06-26
+2022-06-28,Lat Pulldown (1 Arm Seated),Back,57.7,12,692.4000000000001,26,2022-06-26
+2022-06-28,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,26,2022-06-26
+2022-06-28,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,26,2022-06-26
+2022-06-28,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,26,2022-06-26
+2022-06-30,Inverted Row TRX,Back,1,11,11,26,2022-06-26
+2022-06-30,Inverted Row TRX,Back,1,10,10,26,2022-06-26
+2022-06-30,Inverted Row TRX,Back,1,10,10,26,2022-06-26
+2022-06-30,Inverted Row TRX,Back,1,10,10,26,2022-06-26
+2022-06-30,Barbell Row,Back,70,12,840,26,2022-06-26
+2022-06-30,Barbell Row,Back,70,12,840,26,2022-06-26
+2022-06-30,Barbell Row,Back,70,12,840,26,2022-06-26
+2022-06-30,Barbell Row,Back,70,12,840,26,2022-06-26
+2022-06-30,Lat Pulldown,Back,60,10,600,26,2022-06-26
+2022-06-30,Lat Pulldown,Back,70,9,630,26,2022-06-26
+2022-06-30,Lat Pulldown,Back,70,9,630,26,2022-06-26
+2022-06-30,Lat Pulldown,Back,70,8,560,26,2022-06-26
+2022-06-30,Dumbbell Row (1 Arm),Back,30,15,450,26,2022-06-26
+2022-06-30,Dumbbell Row (1 Arm),Back,30,15,450,26,2022-06-26
+2022-06-30,Dumbbell Row (1 Arm),Back,30,13,390,26,2022-06-26
+2022-06-30,Dumbbell Row (1 Arm),Back,30,12,360,26,2022-06-26
+2022-06-30,Dumbbell Curl (1 Arm),Biceps,15,12,180,26,2022-06-26
+2022-06-30,Dumbbell Curl (1 Arm),Biceps,15,11,165,26,2022-06-26
+2022-06-30,Dumbbell Curl (1 Arm),Biceps,15,11,165,26,2022-06-26
+2022-06-30,EZ-Bar Preacher Curl,Biceps,28,12,336,26,2022-06-26
+2022-06-30,EZ-Bar Preacher Curl,Biceps,28,10,280,26,2022-06-26
+2022-06-30,EZ-Bar Preacher Curl,Biceps,28,7,196,26,2022-06-26
+2022-06-30,EZ-Bar Preacher Curl,Biceps,28,8,224,26,2022-06-26
+2022-06-30,Seated Incline Dumbbell Curl,Biceps,10,12,120,26,2022-06-26
+2022-06-30,Seated Incline Dumbbell Curl,Biceps,10,12,120,26,2022-06-26
+2022-06-30,Seated Incline Dumbbell Curl,Biceps,10,12,120,26,2022-06-26
+2022-06-30,Seated Incline Dumbbell Curl,Biceps,10,12,120,26,2022-06-26
+2022-07-01,Barbell Squat,Legs,80,8,640,26,2022-06-26
+2022-07-01,Barbell Squat,Legs,90,6,540,26,2022-06-26
+2022-07-01,Barbell Squat,Legs,90,6,540,26,2022-06-26
+2022-07-01,Barbell Squat,Legs,100,3,300,26,2022-06-26
+2022-07-01,Barbell Squat,Legs,100,3,300,26,2022-06-26
+2022-07-01,Bulgarian Squat,Legs,25,12,300,26,2022-06-26
+2022-07-01,Bulgarian Squat,Legs,25,12,300,26,2022-06-26
+2022-07-01,Bulgarian Squat,Legs,25,12,300,26,2022-06-26
+2022-07-01,Leg Press,Legs,190,10,1900,26,2022-06-26
+2022-07-01,Leg Press,Legs,210,10,2100,26,2022-06-26
+2022-07-01,Leg Press,Legs,230,8,1840,26,2022-06-26
+2022-07-01,Leg Press,Legs,230,8,1840,26,2022-06-26
+2022-07-01,Leg Extension Machine,Legs,40,12,480,26,2022-06-26
+2022-07-01,Leg Extension Machine,Legs,45,11,495,26,2022-06-26
+2022-07-01,Leg Extension Machine,Legs,50,10,500,26,2022-06-26
+2022-07-01,Leg Extension Machine,Legs,50,10,500,26,2022-06-26
+2022-07-01,Seated Adductor,Legs,55,12,660,26,2022-06-26
+2022-07-01,Seated Adductor,Legs,55,12,660,26,2022-06-26
+2022-07-01,Seated Adductor,Legs,55,12,660,26,2022-06-26
+2022-07-01,Seated Adductor,Legs,55,12,660,26,2022-06-26
+2022-07-01,Seated Calf Raise Machine,Legs,70,15,1050,26,2022-06-26
+2022-07-01,Seated Calf Raise Machine,Legs,70,14,980,26,2022-06-26
+2022-07-01,Seated Calf Raise Machine,Legs,70,13,910,26,2022-06-26
+2022-07-01,Seated Calf Raise Machine,Legs,70,12,840,26,2022-06-26
+2022-07-01,Incline Barbell Bench Press,Chest,50,10,500,26,2022-06-26
+2022-07-01,Incline Barbell Bench Press,Chest,60,10,600,26,2022-06-26
+2022-07-01,Incline Barbell Bench Press,Chest,60,8,480,26,2022-06-26
+2022-07-01,Incline Barbell Bench Press,Chest,60,8,480,26,2022-06-26
+2022-07-01,Military Press,Shoulders,25,12,300,26,2022-06-26
+2022-07-01,Military Press,Shoulders,30,12,360,26,2022-06-26
+2022-07-01,Military Press,Shoulders,30,12,360,26,2022-06-26
+2022-07-01,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,26,2022-06-26
+2022-07-01,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,26,2022-06-26
+2022-07-01,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,26,2022-06-26
+2022-07-02,Triceps Extension,Triceps,40,12,480,26,2022-06-26
+2022-07-02,Triceps Extension,Triceps,40,12,480,26,2022-06-26
+2022-07-02,Triceps Extension,Triceps,40,12,480,26,2022-06-26
+2022-07-02,Triceps Extension,Triceps,40,12,480,26,2022-06-26
+2022-07-02,Dumbbell Curl Alternate,Biceps,10,15,150,26,2022-06-26
+2022-07-02,Dumbbell Curl Alternate,Biceps,10,15,150,26,2022-06-26
+2022-07-02,Dumbbell Curl Alternate,Biceps,10,15,150,26,2022-06-26
+2022-07-02,Triceps Press Smith,Triceps,30,8,240,26,2022-06-26
+2022-07-02,Triceps Press Smith,Triceps,40,8,320,26,2022-06-26
+2022-07-02,Triceps Press Smith,Triceps,50,8,400,26,2022-06-26
+2022-07-02,Biceps Curl Roman Bar,Biceps,20,8,160,26,2022-06-26
+2022-07-02,Biceps Curl Roman Bar,Biceps,25,8,200,26,2022-06-26
+2022-07-02,Biceps Curl Roman Bar,Biceps,30,8,240,26,2022-06-26
+2022-07-02,Dips,Triceps,1,8,8,26,2022-06-26
+2022-07-02,Dips,Triceps,1,9,9,26,2022-06-26
+2022-07-02,Dips,Triceps,1,6,6,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,15,8,120,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,15,8,120,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,15,8,120,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,12.5,5,62.5,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,10,5,50,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,7.5,5,37.5,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,5,5,25,26,2022-06-26
+2022-07-02,Biceps Dumbbell Curl,Biceps,4,5,20,26,2022-06-26
+2022-07-02,Cable Triceps Extension (1 Arm),Triceps,20,16,320,26,2022-06-26
+2022-07-02,Cable Triceps Extension (1 Arm),Triceps,20,10,200,26,2022-06-26
+2022-07-02,Cable Triceps Extension (1 Arm),Triceps,20,16,320,26,2022-06-26
+2022-07-02,Cable Triceps Extension (1 Arm),Triceps,20,10,200,26,2022-06-26
+2022-07-04,Flat Barbell Bench Press,Chest,70,12,840,27,2022-07-03
+2022-07-04,Flat Barbell Bench Press,Chest,80,10,800,27,2022-07-03
+2022-07-04,Flat Barbell Bench Press,Chest,85,7,595,27,2022-07-03
+2022-07-04,Flat Barbell Bench Press,Chest,65,10,650,27,2022-07-03
+2022-07-04,Incline Dumbbell Bench Press,Chest,25,8,200,27,2022-07-03
+2022-07-04,Incline Dumbbell Bench Press,Chest,25,9,225,27,2022-07-03
+2022-07-04,Incline Dumbbell Bench Press,Chest,25,7,175,27,2022-07-03
+2022-07-04,Incline Dumbbell Bench Press,Chest,25,6,150,27,2022-07-03
+2022-07-04,Seated Machine Fly,Chest,40,15,600,27,2022-07-03
+2022-07-04,Seated Machine Fly,Chest,40,15,600,27,2022-07-03
+2022-07-04,Seated Machine Fly,Chest,40,10,400,27,2022-07-03
+2022-07-04,Seated Machine Fly,Chest,40,10,400,27,2022-07-03
+2022-07-04,Cable Crossover,Chest,30,10,300,27,2022-07-03
+2022-07-04,Cable Crossover,Chest,30,10,300,27,2022-07-03
+2022-07-04,Cable Crossover,Chest,30,8,240,27,2022-07-03
+2022-07-04,Cable Crossover,Chest,30,8,240,27,2022-07-03
+2022-07-04,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,27,2022-07-03
+2022-07-04,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,27,2022-07-03
+2022-07-04,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,27,2022-07-03
+2022-07-04,Lateral Dumbbell Raise,Shoulders,10,11,110,27,2022-07-03
+2022-07-04,Lateral Dumbbell Raise,Shoulders,10,11,110,27,2022-07-03
+2022-07-04,Lateral Dumbbell Raise,Shoulders,10,11,110,27,2022-07-03
+2022-07-04,Cable Face Pull,Shoulders,50,15,750,27,2022-07-03
+2022-07-04,Cable Face Pull,Shoulders,50,15,750,27,2022-07-03
+2022-07-04,Cable Face Pull,Shoulders,50,12,600,27,2022-07-03
+2022-07-04,EZ-Bar Skullcrusher,Triceps,28,15,420,27,2022-07-03
+2022-07-04,EZ-Bar Skullcrusher,Triceps,28,15,420,27,2022-07-03
+2022-07-04,EZ-Bar Skullcrusher,Triceps,28,15,420,27,2022-07-03
+2022-07-04,Rope Push Down,Triceps,50,15,750,27,2022-07-03
+2022-07-04,Rope Push Down,Triceps,60,10,600,27,2022-07-03
+2022-07-04,Rope Push Down,Triceps,60,9,540,27,2022-07-03
+2022-07-04,Rope Push Down,Triceps,60,8,480,27,2022-07-03
+2022-07-05,Deadlift,Back,110,6,660,27,2022-07-03
+2022-07-05,Deadlift,Back,130,4,520,27,2022-07-03
+2022-07-05,Deadlift,Back,130,4,520,27,2022-07-03
+2022-07-05,Hip Thrust,Legs,100,10,1000,27,2022-07-03
+2022-07-05,Hip Thrust,Legs,100,10,1000,27,2022-07-03
+2022-07-05,Hip Thrust,Legs,100,10,1000,27,2022-07-03
+2022-07-05,Hip Thrust,Legs,100,10,1000,27,2022-07-03
+2022-07-05,Deadlift (1 Leg),Legs,17.5,10,175,27,2022-07-03
+2022-07-05,Deadlift (1 Leg),Legs,17.5,10,175,27,2022-07-03
+2022-07-05,Deadlift (1 Leg),Legs,17.5,10,175,27,2022-07-03
+2022-07-05,Nordic Curl,Legs,1,10,10,27,2022-07-03
+2022-07-05,Nordic Curl,Legs,1,10,10,27,2022-07-03
+2022-07-05,Nordic Curl,Legs,1,10,10,27,2022-07-03
+2022-07-05,Lying Leg Curl Machine,Legs,30,8,240,27,2022-07-03
+2022-07-05,Lying Leg Curl Machine,Legs,30,8,240,27,2022-07-03
+2022-07-05,Lying Leg Curl Machine,Legs,30,8,240,27,2022-07-03
+2022-07-05,Lying Leg Curl Machine,Legs,30,9,270,27,2022-07-03
+2022-07-05,Back Extension,Back,1,15,15,27,2022-07-03
+2022-07-05,Back Extension,Back,1,15,15,27,2022-07-03
+2022-07-05,Back Extension,Back,1,15,15,27,2022-07-03
+2022-07-05,Back Extension,Back,1,15,15,27,2022-07-03
+2022-07-05,Seated Cable Row,Back,60,10,600,27,2022-07-03
+2022-07-05,Seated Cable Row,Back,60,10,600,27,2022-07-03
+2022-07-05,Seated Cable Row,Back,60,10,600,27,2022-07-03
+2022-07-05,Seated Cable Row,Back,60,10,600,27,2022-07-03
+2022-07-05,Lat Pulldown (1 Arm Seated),Back,57.5,14,805,27,2022-07-03
+2022-07-05,Lat Pulldown (1 Arm Seated),Back,57.5,13,747.5,27,2022-07-03
+2022-07-05,Lat Pulldown (1 Arm Seated),Back,57.5,12,690,27,2022-07-03
+2022-07-05,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,27,2022-07-03
+2022-07-05,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,27,2022-07-03
+2022-07-05,Reverse Fly (Dumbbell),Shoulders,7.5,15,112.5,27,2022-07-03
+2022-07-07,Inverted Row TRX,Back,1,14,14,27,2022-07-03
+2022-07-07,Inverted Row TRX,Back,1,14,14,27,2022-07-03
+2022-07-07,Inverted Row TRX,Back,1,11,11,27,2022-07-03
+2022-07-07,Inverted Row TRX,Back,1,10,10,27,2022-07-03
+2022-07-07,Barbell Row,Back,70,12,840,27,2022-07-03
+2022-07-07,Barbell Row,Back,80,9,720,27,2022-07-03
+2022-07-07,Barbell Row,Back,80,9,720,27,2022-07-03
+2022-07-07,Barbell Row,Back,80,9,720,27,2022-07-03
+2022-07-07,Lat Pulldown,Back,65,10,650,27,2022-07-03
+2022-07-07,Lat Pulldown,Back,70,10,700,27,2022-07-03
+2022-07-07,Lat Pulldown,Back,70,9,630,27,2022-07-03
+2022-07-07,Lat Pulldown,Back,70,10,700,27,2022-07-03
+2022-07-07,Dumbbell Row (1 Arm),Back,30,15,450,27,2022-07-03
+2022-07-07,Dumbbell Row (1 Arm),Back,30,15,450,27,2022-07-03
+2022-07-07,Dumbbell Row (1 Arm),Back,30,12,360,27,2022-07-03
+2022-07-07,Dumbbell Row (1 Arm),Back,30,15,450,27,2022-07-03
+2022-07-07,Dumbbell Curl (1 Arm),Biceps,17.5,10,175,27,2022-07-03
+2022-07-07,Dumbbell Curl (1 Arm),Biceps,17.5,9,157.5,27,2022-07-03
+2022-07-07,Dumbbell Curl (1 Arm),Biceps,17.5,9,157.5,27,2022-07-03
+2022-07-07,EZ-Bar Preacher Curl,Biceps,33,8,264,27,2022-07-03
+2022-07-07,EZ-Bar Preacher Curl,Biceps,33,8,264,27,2022-07-03
+2022-07-07,EZ-Bar Preacher Curl,Biceps,33,7,231,27,2022-07-03
+2022-07-07,EZ-Bar Preacher Curl,Biceps,33,7,231,27,2022-07-03
+2022-07-07,Seated Incline Dumbbell Curl,Biceps,12.5,11,137.5,27,2022-07-03
+2022-07-07,Seated Incline Dumbbell Curl,Biceps,12.5,10,125,27,2022-07-03
+2022-07-07,Seated Incline Dumbbell Curl,Biceps,12.5,10,125,27,2022-07-03
+2022-07-07,Seated Incline Dumbbell Curl,Biceps,12.5,9,112.5,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,60,10,600,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,70,8,560,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,80,5,400,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,90,5,450,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,100,3,300,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,100,3,300,27,2022-07-03
+2022-07-08,Barbell Squat,Legs,100,3,300,27,2022-07-03
+2022-07-08,Bulgarian Squat,Legs,30,10,300,27,2022-07-03
+2022-07-08,Bulgarian Squat,Legs,30,10,300,27,2022-07-03
+2022-07-08,Bulgarian Squat,Legs,30,10,300,27,2022-07-03
+2022-07-08,Leg Press,Legs,200,10,2000,27,2022-07-03
+2022-07-08,Leg Press,Legs,220,8,1760,27,2022-07-03
+2022-07-08,Leg Press,Legs,230,8,1840,27,2022-07-03
+2022-07-08,Leg Press,Legs,230,8,1840,27,2022-07-03
+2022-07-08,Leg Extension Machine,Legs,45,12,540,27,2022-07-03
+2022-07-08,Seated Adductor,Legs,55,12,660,27,2022-07-03
+2022-07-08,Seated Adductor,Legs,55,12,660,27,2022-07-03
+2022-07-08,Seated Adductor,Legs,55,12,660,27,2022-07-03
+2022-07-08,Seated Adductor,Legs,55,12,660,27,2022-07-03
+2022-07-08,Leg Extension Machine,Legs,50,11,550,27,2022-07-03
+2022-07-08,Leg Extension Machine,Legs,50,11,550,27,2022-07-03
+2022-07-08,Leg Extension Machine,Legs,55,8,440,27,2022-07-03
+2022-07-08,Seated Calf Raise Machine,Legs,75,10,750,27,2022-07-03
+2022-07-08,Seated Calf Raise Machine,Legs,75,10,750,27,2022-07-03
+2022-07-08,Seated Calf Raise Machine,Legs,75,10,750,27,2022-07-03
+2022-07-08,Seated Calf Raise Machine,Legs,75,10,750,27,2022-07-03
+2022-07-08,Incline Barbell Bench Press,Chest,60,10,600,27,2022-07-03
+2022-07-08,Incline Barbell Bench Press,Chest,60,10,600,27,2022-07-03
+2022-07-08,Incline Barbell Bench Press,Chest,60,7,420,27,2022-07-03
+2022-07-08,Incline Barbell Bench Press,Chest,60,7,420,27,2022-07-03
+2022-07-08,Military Press,Shoulders,30,12,360,27,2022-07-03
+2022-07-08,Military Press,Shoulders,30,10,300,27,2022-07-03
+2022-07-08,Military Press,Shoulders,30,10,300,27,2022-07-03
+2022-07-11,Flat Barbell Bench Press,Chest,60,12,720,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,65,10,650,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,70,8,560,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,75,5,375,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,80,4,320,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,80,5,400,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,80,5,400,28,2022-07-10
+2022-07-11,Flat Barbell Bench Press,Chest,80,5,400,28,2022-07-10
+2022-07-11,Incline Dumbbell Bench Press,Chest,25,10,250,28,2022-07-10
+2022-07-11,Incline Dumbbell Bench Press,Chest,25,10,250,28,2022-07-10
+2022-07-11,Incline Dumbbell Bench Press,Chest,25,7,175,28,2022-07-10
+2022-07-11,Incline Dumbbell Bench Press,Chest,25,7,175,28,2022-07-10
+2022-07-11,Seated Machine Fly,Chest,40,15,600,28,2022-07-10
+2022-07-11,Seated Machine Fly,Chest,45,11,495,28,2022-07-10
+2022-07-11,Seated Machine Fly,Chest,45,10,450,28,2022-07-10
+2022-07-11,Seated Machine Fly,Chest,45,9,405,28,2022-07-10
+2022-07-11,Cable Crossover,Chest,30,10,300,28,2022-07-10
+2022-07-11,Cable Crossover,Chest,30,10,300,28,2022-07-10
+2022-07-11,Cable Crossover,Chest,30,9,270,28,2022-07-10
+2022-07-11,Cable Crossover,Chest,30,8,240,28,2022-07-10
+2022-07-11,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,28,2022-07-10
+2022-07-11,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,28,2022-07-10
+2022-07-11,Arnold Dumbbell Press (1 Arm),Shoulders,15,11,165,28,2022-07-10
+2022-07-11,Lateral Dumbbell Raise,Shoulders,10,13,130,28,2022-07-10
+2022-07-11,Lateral Dumbbell Raise,Shoulders,10,12,120,28,2022-07-10
+2022-07-11,Lateral Dumbbell Raise,Shoulders,10,12,120,28,2022-07-10
+2022-07-11,Cable Face Pull,Shoulders,45,15,675,28,2022-07-10
+2022-07-11,Cable Face Pull,Shoulders,45,15,675,28,2022-07-10
+2022-07-11,Cable Face Pull,Shoulders,50,15,750,28,2022-07-10
+2022-07-11,Cable Face Pull,Shoulders,50,15,750,28,2022-07-10
+2022-07-11,EZ-Bar Skullcrusher,Triceps,33,12,396,28,2022-07-10
+2022-07-11,EZ-Bar Skullcrusher,Triceps,33,13,429,28,2022-07-10
+2022-07-11,EZ-Bar Skullcrusher,Triceps,33,11,363,28,2022-07-10
+2022-07-11,EZ-Bar Skullcrusher,Triceps,33,10,330,28,2022-07-10
+2022-07-11,Rope Push Down,Triceps,60,12,720,28,2022-07-10
+2022-07-11,Rope Push Down,Triceps,60,10,600,28,2022-07-10
+2022-07-11,Rope Push Down,Triceps,60,8,480,28,2022-07-10
+2022-07-11,Rope Push Down,Triceps,60,8,480,28,2022-07-10
+2022-07-12,Deadlift,Back,60,8,480,28,2022-07-10
+2022-07-12,Deadlift,Back,80,6,480,28,2022-07-10
+2022-07-12,Deadlift,Back,80,6,480,28,2022-07-10
+2022-07-12,Deadlift,Back,140,4,560,28,2022-07-10
+2022-07-12,Deadlift,Back,140,4,560,28,2022-07-10
+2022-07-12,Deadlift,Back,140,4,560,28,2022-07-10
+2022-07-12,Hip Thrust,Legs,100,10,1000,28,2022-07-10
+2022-07-12,Hip Thrust,Legs,100,10,1000,28,2022-07-10
+2022-07-12,Hip Thrust,Legs,100,8,800,28,2022-07-10
+2022-07-12,Deadlift (1 Leg),Legs,17.5,10,175,28,2022-07-10
+2022-07-12,Deadlift (1 Leg),Legs,17.5,12,210,28,2022-07-10
+2022-07-12,Deadlift (1 Leg),Legs,17.5,12,210,28,2022-07-10
+2022-07-12,Nordic Curl,Legs,1,10,10,28,2022-07-10
+2022-07-12,Nordic Curl,Legs,1,10,10,28,2022-07-10
+2022-07-12,Nordic Curl,Legs,1,10,10,28,2022-07-10
+2022-07-12,Lying Leg Curl Machine,Legs,30,9,270,28,2022-07-10
+2022-07-12,Lying Leg Curl Machine,Legs,30,10,300,28,2022-07-10
+2022-07-12,Lying Leg Curl Machine,Legs,30,8,240,28,2022-07-10
+2022-07-12,Lying Leg Curl Machine,Legs,30,8,240,28,2022-07-10
+2022-07-12,Back Extension,Back,1,15,15,28,2022-07-10
+2022-07-12,Back Extension,Back,1,15,15,28,2022-07-10
+2022-07-12,Back Extension,Back,1,15,15,28,2022-07-10
+2022-07-12,Back Extension,Back,1,15,15,28,2022-07-10
+2022-07-14,Inverted Row TRX,Back,1,12,12,28,2022-07-10
+2022-07-14,Inverted Row TRX,Back,1,10,10,28,2022-07-10
+2022-07-14,Inverted Row TRX,Back,1,10,10,28,2022-07-10
+2022-07-14,Inverted Row TRX,Back,1,10,10,28,2022-07-10
+2022-07-14,Barbell Row,Back,40,10,400,28,2022-07-10
+2022-07-14,Barbell Row,Back,40,10,400,28,2022-07-10
+2022-07-14,Barbell Row,Back,80,10,800,28,2022-07-10
+2022-07-14,Barbell Row,Back,80,10,800,28,2022-07-10
+2022-07-14,Barbell Row,Back,80,10,800,28,2022-07-10
+2022-07-14,Lat Pulldown,Back,35,10,350,28,2022-07-10
+2022-07-14,Lat Pulldown,Back,45,10,450,28,2022-07-10
+2022-07-14,Lat Pulldown,Back,70,10,700,28,2022-07-10
+2022-07-14,Lat Pulldown,Back,70,10,700,28,2022-07-10
+2022-07-14,Lat Pulldown,Back,70,10,700,28,2022-07-10
+2022-07-14,Lat Pulldown,Back,70,10,700,28,2022-07-10
+2022-07-14,Dumbbell Row (1 Arm),Back,35,10,350,28,2022-07-10
+2022-07-14,Dumbbell Row (1 Arm),Back,35,10,350,28,2022-07-10
+2022-07-14,Dumbbell Row (1 Arm),Back,35,12,420,28,2022-07-10
+2022-07-14,Dumbbell Row (1 Arm),Back,35,10,350,28,2022-07-10
+2022-07-14,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,28,2022-07-10
+2022-07-14,Dumbbell Curl (1 Arm),Biceps,17.5,10,175,28,2022-07-10
+2022-07-14,Dumbbell Curl (1 Arm),Biceps,17.5,9,157.5,28,2022-07-10
+2022-07-14,EZ-Bar Preacher Curl,Biceps,33,9,297,28,2022-07-10
+2022-07-14,EZ-Bar Preacher Curl,Biceps,33,9,297,28,2022-07-10
+2022-07-14,EZ-Bar Preacher Curl,Biceps,33,6,198,28,2022-07-10
+2022-07-14,EZ-Bar Preacher Curl,Biceps,33,5,165,28,2022-07-10
+2022-07-14,Seated Incline Dumbbell Curl,Biceps,12.5,11,137.5,28,2022-07-10
+2022-07-14,Seated Incline Dumbbell Curl,Biceps,12.5,10,125,28,2022-07-10
+2022-07-14,Seated Incline Dumbbell Curl,Biceps,12.5,9,112.5,28,2022-07-10
+2022-07-14,Seated Incline Dumbbell Curl,Biceps,12.5,9,112.5,28,2022-07-10
+2022-07-15,Barbell Squat,Legs,60,8,480,28,2022-07-10
+2022-07-15,Barbell Squat,Legs,60,8,480,28,2022-07-10
+2022-07-15,Barbell Squat,Legs,80,4,320,28,2022-07-10
+2022-07-15,Barbell Squat,Legs,110,3,330,28,2022-07-10
+2022-07-15,Barbell Squat,Legs,110,3,330,28,2022-07-10
+2022-07-15,Barbell Squat,Legs,110,3,330,28,2022-07-10
+2022-07-15,Bulgarian Squat,Legs,30,12,360,28,2022-07-10
+2022-07-15,Bulgarian Squat,Legs,30,10,300,28,2022-07-10
+2022-07-15,Bulgarian Squat,Legs,30,10,300,28,2022-07-10
+2022-07-15,Leg Press,Legs,200,8,1600,28,2022-07-10
+2022-07-15,Leg Press,Legs,200,10,2000,28,2022-07-10
+2022-07-15,Leg Press,Legs,220,8,1760,28,2022-07-10
+2022-07-15,Leg Press,Legs,220,8,1760,28,2022-07-10
+2022-07-15,Leg Extension Machine,Legs,50,12,600,28,2022-07-10
+2022-07-15,Leg Extension Machine,Legs,50,10,500,28,2022-07-10
+2022-07-15,Leg Extension Machine,Legs,50,9,450,28,2022-07-10
+2022-07-15,Leg Extension Machine,Legs,50,8,400,28,2022-07-10
+2022-07-15,Seated Calf Raise Machine,Legs,70,11,770,28,2022-07-10
+2022-07-15,Seated Calf Raise Machine,Legs,70,11,770,28,2022-07-10
+2022-07-15,Seated Calf Raise Machine,Legs,70,11,770,28,2022-07-10
+2022-07-15,Seated Calf Raise Machine,Legs,75,6,450,28,2022-07-10
+2022-07-15,Incline Barbell Bench Press,Chest,60,10,600,28,2022-07-10
+2022-07-15,Incline Barbell Bench Press,Chest,60,10,600,28,2022-07-10
+2022-07-15,Incline Barbell Bench Press,Chest,60,8,480,28,2022-07-10
+2022-07-15,Incline Barbell Bench Press,Chest,60,8,480,28,2022-07-10
+2022-07-15,Military Press,Shoulders,25,15,375,28,2022-07-10
+2022-07-15,Military Press,Shoulders,25,10,250,28,2022-07-10
+2022-07-15,Military Press,Shoulders,25,12,300,28,2022-07-10
+2022-07-15,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,28,2022-07-10
+2022-07-15,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,28,2022-07-10
+2022-07-15,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,28,2022-07-10
+2022-07-16,Triceps Extension,Triceps,40,12,480,28,2022-07-10
+2022-07-16,Triceps Extension,Triceps,45,12,540,28,2022-07-10
+2022-07-16,Triceps Extension,Triceps,45,12,540,28,2022-07-10
+2022-07-16,Triceps Extension,Triceps,45,12,540,28,2022-07-10
+2022-07-16,Dumbbell Curl Alternate,Biceps,10,15,150,28,2022-07-10
+2022-07-16,Dumbbell Curl Alternate,Biceps,10,15,150,28,2022-07-10
+2022-07-16,Dumbbell Curl Alternate,Biceps,10,15,150,28,2022-07-10
+2022-07-16,Triceps Press Smith,Triceps,40,8,320,28,2022-07-10
+2022-07-16,Triceps Press Smith,Triceps,55,8,440,28,2022-07-10
+2022-07-16,Triceps Press Smith,Triceps,65,7,455,28,2022-07-10
+2022-07-16,Biceps Curl Roman Bar,Biceps,25,8,200,28,2022-07-10
+2022-07-16,Biceps Curl Roman Bar,Biceps,30,8,240,28,2022-07-10
+2022-07-16,Biceps Curl Roman Bar,Biceps,35,6,210,28,2022-07-10
+2022-07-16,Dips,Triceps,1,10,10,28,2022-07-10
+2022-07-16,Dips,Triceps,1,9,9,28,2022-07-10
+2022-07-16,Dips,Triceps,1,8,8,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,17.5,8,140,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,17.5,8,140,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,15,8,120,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,12.5,8,100,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,10,8,80,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,7.5,8,60,28,2022-07-10
+2022-07-16,Biceps Dumbbell Curl,Biceps,5,8,40,28,2022-07-10
+2022-07-16,Cable Triceps Extension (1 Arm),Triceps,20,14,280,28,2022-07-10
+2022-07-16,Cable Triceps Extension (1 Arm),Triceps,20,11,220,28,2022-07-10
+2022-07-16,Cable Triceps Extension (1 Arm),Triceps,20,14,280,28,2022-07-10
+2022-07-16,Cable Triceps Extension (1 Arm),Triceps,20,12,240,28,2022-07-10
+2022-07-19,Flat Barbell Bench Press,Chest,45,10,450,29,2022-07-17
+2022-07-19,Flat Barbell Bench Press,Chest,45,10,450,29,2022-07-17
+2022-07-19,Flat Barbell Bench Press,Chest,80,6,480,29,2022-07-17
+2022-07-19,Flat Barbell Bench Press,Chest,85,6,510,29,2022-07-17
+2022-07-19,Flat Barbell Bench Press,Chest,80,6,480,29,2022-07-17
+2022-07-19,Flat Barbell Bench Press,Chest,80,6,480,29,2022-07-17
+2022-07-19,Incline Dumbbell Bench Press,Chest,27.5,8,220,29,2022-07-17
+2022-07-19,Incline Dumbbell Bench Press,Chest,27.5,8,220,29,2022-07-17
+2022-07-19,Incline Dumbbell Bench Press,Chest,27.5,8,220,29,2022-07-17
+2022-07-19,Incline Dumbbell Bench Press,Chest,27.5,8,220,29,2022-07-17
+2022-07-19,Seated Machine Fly,Chest,45,12,540,29,2022-07-17
+2022-07-19,Seated Machine Fly,Chest,45,12,540,29,2022-07-17
+2022-07-19,Seated Machine Fly,Chest,45,12,540,29,2022-07-17
+2022-07-19,Seated Machine Fly,Chest,45,12,540,29,2022-07-17
+2022-07-19,Cable Crossover,Chest,30,10,300,29,2022-07-17
+2022-07-19,Cable Crossover,Chest,30,11,330,29,2022-07-17
+2022-07-19,Cable Crossover,Chest,30,10,300,29,2022-07-17
+2022-07-19,Cable Crossover,Chest,30,10,300,29,2022-07-17
+2022-07-19,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,29,2022-07-17
+2022-07-19,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,29,2022-07-17
+2022-07-19,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,29,2022-07-17
+2022-07-19,Lateral Dumbbell Raise,Shoulders,10,15,150,29,2022-07-17
+2022-07-19,Lateral Dumbbell Raise,Shoulders,10,15,150,29,2022-07-17
+2022-07-19,Lateral Dumbbell Raise,Shoulders,10,15,150,29,2022-07-17
+2022-07-19,Cable Face Pull,Shoulders,50,15,750,29,2022-07-17
+2022-07-19,Cable Face Pull,Shoulders,50,15,750,29,2022-07-17
+2022-07-19,Cable Face Pull,Shoulders,50,15,750,29,2022-07-17
+2022-07-19,Cable Face Pull,Shoulders,50,15,750,29,2022-07-17
+2022-07-19,EZ-Bar Skullcrusher,Triceps,33,12,396,29,2022-07-17
+2022-07-19,EZ-Bar Skullcrusher,Triceps,33,12,396,29,2022-07-17
+2022-07-19,EZ-Bar Skullcrusher,Triceps,33,12,396,29,2022-07-17
+2022-07-19,EZ-Bar Skullcrusher,Triceps,33,10,330,29,2022-07-17
+2022-07-19,Rope Push Down,Triceps,60,12,720,29,2022-07-17
+2022-07-19,Rope Push Down,Triceps,60,12,720,29,2022-07-17
+2022-07-19,Rope Push Down,Triceps,60,12,720,29,2022-07-17
+2022-07-19,Rope Push Down,Triceps,60,9,540,29,2022-07-17
+2022-07-20,Deadlift,Back,80,8,640,29,2022-07-17
+2022-07-20,Deadlift,Back,80,6,480,29,2022-07-17
+2022-07-20,Deadlift,Back,140,5,700,29,2022-07-17
+2022-07-20,Deadlift,Back,140,5,700,29,2022-07-17
+2022-07-20,Hip Thrust,Legs,80,10,800,29,2022-07-17
+2022-07-20,Hip Thrust,Legs,100,10,1000,29,2022-07-17
+2022-07-20,Hip Thrust,Legs,100,8,800,29,2022-07-17
+2022-07-20,Hip Thrust,Legs,100,8,800,29,2022-07-17
+2022-07-20,Deadlift (1 Leg),Legs,17.5,10,175,29,2022-07-17
+2022-07-20,Deadlift (1 Leg),Legs,17.5,12,210,29,2022-07-17
+2022-07-20,Deadlift (1 Leg),Legs,17.5,12,210,29,2022-07-17
+2022-07-20,Nordic Curl,Legs,1,10,10,29,2022-07-17
+2022-07-20,Nordic Curl,Legs,1,10,10,29,2022-07-17
+2022-07-20,Nordic Curl,Legs,1,10,10,29,2022-07-17
+2022-07-20,Lying Leg Curl Machine,Legs,30,10,300,29,2022-07-17
+2022-07-20,Lying Leg Curl Machine,Legs,30,10,300,29,2022-07-17
+2022-07-20,Lying Leg Curl Machine,Legs,30,8,240,29,2022-07-17
+2022-07-20,Lying Leg Curl Machine,Legs,30,7,210,29,2022-07-17
+2022-07-20,Back Extension,Back,1,15,15,29,2022-07-17
+2022-07-20,Back Extension,Back,1,15,15,29,2022-07-17
+2022-07-20,Back Extension,Back,1,15,15,29,2022-07-17
+2022-07-20,Back Extension,Back,1,15,15,29,2022-07-17
+2022-07-21,Triceps Extension,Triceps,45,15,675,29,2022-07-17
+2022-07-21,Triceps Extension,Triceps,45,12,540,29,2022-07-17
+2022-07-21,Triceps Extension,Triceps,45,12,540,29,2022-07-17
+2022-07-21,Triceps Extension,Triceps,50,12,600,29,2022-07-17
+2022-07-21,Dumbbell Curl Alternate,Biceps,10,15,150,29,2022-07-17
+2022-07-21,Dumbbell Curl Alternate,Biceps,10,15,150,29,2022-07-17
+2022-07-21,Dumbbell Curl Alternate,Biceps,10,15,150,29,2022-07-17
+2022-07-21,Triceps Press Smith,Triceps,40,10,400,29,2022-07-17
+2022-07-21,Triceps Press Smith,Triceps,40,10,400,29,2022-07-17
+2022-07-21,Triceps Press Smith,Triceps,40,10,400,29,2022-07-17
+2022-07-21,Triceps Press Smith,Triceps,40,10,400,29,2022-07-17
+2022-07-21,Biceps Curl Roman Bar,Biceps,25,8,200,29,2022-07-17
+2022-07-21,Biceps Curl Roman Bar,Biceps,30,8,240,29,2022-07-17
+2022-07-21,Biceps Curl Roman Bar,Biceps,30,8,240,29,2022-07-17
+2022-07-21,Biceps Curl Roman Bar,Biceps,30,8,240,29,2022-07-17
+2022-07-21,Dips,Triceps,1,10,10,29,2022-07-17
+2022-07-21,Dips,Triceps,1,11,11,29,2022-07-17
+2022-07-21,Dips,Triceps,1,11,11,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,17.5,8,140,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,17.5,8,140,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,15,8,120,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,12.5,6,75,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,10,6,60,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,7.5,6,45,29,2022-07-17
+2022-07-21,Biceps Dumbbell Curl,Biceps,2.5,15,37.5,29,2022-07-17
+2022-07-21,Cable Triceps Extension (1 Arm),Triceps,25,10,250,29,2022-07-17
+2022-07-21,Cable Triceps Extension (1 Arm),Triceps,25,7,175,29,2022-07-17
+2022-07-21,Cable Triceps Extension (1 Arm),Triceps,25,10,250,29,2022-07-17
+2022-07-21,Cable Triceps Extension (1 Arm),Triceps,25,7,175,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,70,6,420,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,70,6,420,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,70,6,420,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,110,3,330,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,110,3,330,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,110,3,330,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,110,3,330,29,2022-07-17
+2022-07-22,Barbell Squat,Legs,110,3,330,29,2022-07-17
+2022-07-22,Bulgarian Squat,Legs,30,10,300,29,2022-07-17
+2022-07-22,Bulgarian Squat,Legs,30,10,300,29,2022-07-17
+2022-07-22,Bulgarian Squat,Legs,30,10,300,29,2022-07-17
+2022-07-22,Leg Press,Legs,200,8,1600,29,2022-07-17
+2022-07-22,Leg Press,Legs,200,10,2000,29,2022-07-17
+2022-07-22,Leg Press,Legs,220,8,1760,29,2022-07-17
+2022-07-22,Leg Press,Legs,220,8,1760,29,2022-07-17
+2022-07-22,Leg Extension Machine,Legs,40,10,400,29,2022-07-17
+2022-07-22,Leg Extension Machine,Legs,40,10,400,29,2022-07-17
+2022-07-22,Leg Extension Machine,Legs,40,10,400,29,2022-07-17
+2022-07-22,Leg Extension Machine,Legs,40,10,400,29,2022-07-17
+2022-07-22,Seated Adductor,Legs,55,12,660,29,2022-07-17
+2022-07-22,Seated Adductor,Legs,55,12,660,29,2022-07-17
+2022-07-22,Seated Adductor,Legs,55,12,660,29,2022-07-17
+2022-07-22,Seated Adductor,Legs,55,12,660,29,2022-07-17
+2022-07-22,Seated Calf Raise Machine,Legs,70,12,840,29,2022-07-17
+2022-07-22,Seated Calf Raise Machine,Legs,70,12,840,29,2022-07-17
+2022-07-22,Seated Calf Raise Machine,Legs,70,12,840,29,2022-07-17
+2022-07-22,Seated Calf Raise Machine,Legs,70,11,770,29,2022-07-17
+2022-07-23,Inverted Row TRX,Back,1,10,10,29,2022-07-17
+2022-07-23,Inverted Row TRX,Back,1,10,10,29,2022-07-17
+2022-07-23,Inverted Row TRX,Back,1,10,10,29,2022-07-17
+2022-07-23,Inverted Row TRX,Back,1,10,10,29,2022-07-17
+2022-07-23,Barbell Row,Back,40,10,400,29,2022-07-17
+2022-07-23,Barbell Row,Back,40,10,400,29,2022-07-17
+2022-07-23,Barbell Row,Back,85,7,595,29,2022-07-17
+2022-07-23,Barbell Row,Back,85,6,510,29,2022-07-17
+2022-07-23,Barbell Row,Back,80,10,800,29,2022-07-17
+2022-07-23,Barbell Row,Back,80,8,640,29,2022-07-17
+2022-07-23,Lat Pulldown,Back,65,10,650,29,2022-07-17
+2022-07-23,Lat Pulldown,Back,65,10,650,29,2022-07-17
+2022-07-23,Lat Pulldown,Back,65,8,520,29,2022-07-17
+2022-07-23,Lat Pulldown,Back,65,8,520,29,2022-07-17
+2022-07-23,Dumbbell Row (1 Arm),Back,30,14,420,29,2022-07-17
+2022-07-23,Dumbbell Row (1 Arm),Back,30,14,420,29,2022-07-17
+2022-07-23,Dumbbell Row (1 Arm),Back,30,14,420,29,2022-07-17
+2022-07-23,Dumbbell Row (1 Arm),Back,30,14,420,29,2022-07-17
+2022-07-25,Flat Barbell Bench Press,Chest,40,10,400,30,2022-07-24
+2022-07-25,Flat Barbell Bench Press,Chest,50,10,500,30,2022-07-24
+2022-07-25,Flat Barbell Bench Press,Chest,50,8,400,30,2022-07-24
+2022-07-25,Flat Barbell Bench Press,Chest,90,6,540,30,2022-07-24
+2022-07-25,Flat Barbell Bench Press,Chest,90,6,540,30,2022-07-24
+2022-07-25,Flat Barbell Bench Press,Chest,90,6,540,30,2022-07-24
+2022-07-25,Flat Barbell Bench Press,Chest,90,6,540,30,2022-07-24
+2022-07-25,Incline Dumbbell Bench Press,Chest,27.5,8,220,30,2022-07-24
+2022-07-25,Incline Dumbbell Bench Press,Chest,27.5,8,220,30,2022-07-24
+2022-07-25,Incline Dumbbell Bench Press,Chest,27.5,7,192.5,30,2022-07-24
+2022-07-25,Incline Dumbbell Bench Press,Chest,27.5,7,192.5,30,2022-07-24
+2022-07-25,Seated Machine Fly,Chest,45,12,540,30,2022-07-24
+2022-07-25,Seated Machine Fly,Chest,45,12,540,30,2022-07-24
+2022-07-25,Seated Machine Fly,Chest,50,12,600,30,2022-07-24
+2022-07-25,Seated Machine Fly,Chest,55,12,660,30,2022-07-24
+2022-07-25,Cable Crossover,Chest,30,10,300,30,2022-07-24
+2022-07-25,Cable Crossover,Chest,30,9,270,30,2022-07-24
+2022-07-25,Cable Crossover,Chest,30,10,300,30,2022-07-24
+2022-07-25,Cable Crossover,Chest,30,10,300,30,2022-07-24
+2022-07-25,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,30,2022-07-24
+2022-07-25,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,30,2022-07-24
+2022-07-25,Arnold Dumbbell Press (1 Arm),Shoulders,15,13,195,30,2022-07-24
+2022-07-25,Lateral Dumbbell Raise,Shoulders,10,15,150,30,2022-07-24
+2022-07-25,Lateral Dumbbell Raise,Shoulders,10,15,150,30,2022-07-24
+2022-07-25,Lateral Dumbbell Raise,Shoulders,10,15,150,30,2022-07-24
+2022-07-25,Cable Face Pull,Shoulders,50,15,750,30,2022-07-24
+2022-07-25,Cable Face Pull,Shoulders,50,15,750,30,2022-07-24
+2022-07-25,Cable Face Pull,Shoulders,50,15,750,30,2022-07-24
+2022-07-25,Cable Face Pull,Shoulders,50,15,750,30,2022-07-24
+2022-07-25,EZ-Bar Skullcrusher,Triceps,33,12,396,30,2022-07-24
+2022-07-25,EZ-Bar Skullcrusher,Triceps,33,12,396,30,2022-07-24
+2022-07-25,EZ-Bar Skullcrusher,Triceps,33,12,396,30,2022-07-24
+2022-07-25,EZ-Bar Skullcrusher,Triceps,33,10,330,30,2022-07-24
+2022-07-25,Rope Push Down,Triceps,60,15,900,30,2022-07-24
+2022-07-25,Rope Push Down,Triceps,60,15,900,30,2022-07-24
+2022-07-25,Rope Push Down,Triceps,60,12,720,30,2022-07-24
+2022-07-25,Rope Push Down,Triceps,60,10,600,30,2022-07-24
+2022-07-26,Deadlift,Back,80,7,560,30,2022-07-24
+2022-07-26,Deadlift,Back,80,7,560,30,2022-07-24
+2022-07-26,Deadlift,Back,140,4,560,30,2022-07-24
+2022-07-26,Deadlift,Back,140,4,560,30,2022-07-24
+2022-07-26,Deadlift,Back,140,4,560,30,2022-07-24
+2022-07-26,Deadlift,Back,140,4,560,30,2022-07-24
+2022-07-26,Deadlift,Back,140,4,560,30,2022-07-24
+2022-07-26,Hip Thrust,Legs,80,10,800,30,2022-07-24
+2022-07-26,Hip Thrust,Legs,80,10,800,30,2022-07-24
+2022-07-26,Hip Thrust,Legs,80,10,800,30,2022-07-24
+2022-07-26,Hip Thrust,Legs,80,10,800,30,2022-07-24
+2022-07-26,Deadlift (1 Leg),Legs,17.5,12,210,30,2022-07-24
+2022-07-26,Deadlift (1 Leg),Legs,17.5,12,210,30,2022-07-24
+2022-07-26,Deadlift (1 Leg),Legs,17.5,12,210,30,2022-07-24
+2022-07-26,Nordic Curl,Legs,1,12,12,30,2022-07-24
+2022-07-26,Nordic Curl,Legs,1,12,12,30,2022-07-24
+2022-07-26,Nordic Curl,Legs,1,12,12,30,2022-07-24
+2022-07-26,Lying Leg Curl Machine,Legs,30,10,300,30,2022-07-24
+2022-07-26,Lying Leg Curl Machine,Legs,35,10,350,30,2022-07-24
+2022-07-26,Lying Leg Curl Machine,Legs,40,10,400,30,2022-07-24
+2022-07-26,Lying Leg Curl Machine,Legs,45,10,450,30,2022-07-24
+2022-07-26,Back Extension,Back,1,15,15,30,2022-07-24
+2022-07-26,Back Extension,Back,1,15,15,30,2022-07-24
+2022-07-26,Back Extension,Back,1,15,15,30,2022-07-24
+2022-07-26,Back Extension,Back,1,15,15,30,2022-07-24
+2022-07-26,Seated Cable Row,Back,60,10,600,30,2022-07-24
+2022-07-26,Seated Cable Row,Back,60,10,600,30,2022-07-24
+2022-07-26,Seated Cable Row,Back,60,10,600,30,2022-07-24
+2022-07-26,Seated Cable Row,Back,60,10,600,30,2022-07-24
+2022-07-28,Inverted Row TRX,Back,1,10,10,30,2022-07-24
+2022-07-28,Inverted Row TRX,Back,1,10,10,30,2022-07-24
+2022-07-28,Inverted Row TRX,Back,1,10,10,30,2022-07-24
+2022-07-28,Inverted Row TRX,Back,1,10,10,30,2022-07-24
+2022-07-28,Barbell Row,Back,50,10,500,30,2022-07-24
+2022-07-28,Barbell Row,Back,50,10,500,30,2022-07-24
+2022-07-28,Barbell Row,Back,80,10,800,30,2022-07-24
+2022-07-28,Barbell Row,Back,80,10,800,30,2022-07-24
+2022-07-28,Barbell Row,Back,80,10,800,30,2022-07-24
+2022-07-28,Barbell Row,Back,80,10,800,30,2022-07-24
+2022-07-28,Lat Pulldown,Back,65,10,650,30,2022-07-24
+2022-07-28,Lat Pulldown,Back,70,10,700,30,2022-07-24
+2022-07-28,Lat Pulldown,Back,70,10,700,30,2022-07-24
+2022-07-28,Lat Pulldown,Back,70,10,700,30,2022-07-24
+2022-07-28,Dumbbell Row (1 Arm),Back,35,12,420,30,2022-07-24
+2022-07-28,Dumbbell Row (1 Arm),Back,35,12,420,30,2022-07-24
+2022-07-28,Dumbbell Row (1 Arm),Back,35,12,420,30,2022-07-24
+2022-07-28,Dumbbell Row (1 Arm),Back,35,12,420,30,2022-07-24
+2022-07-28,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,30,2022-07-24
+2022-07-28,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,30,2022-07-24
+2022-07-28,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,30,2022-07-24
+2022-07-28,EZ-Bar Preacher Curl,Biceps,33,10,330,30,2022-07-24
+2022-07-28,EZ-Bar Preacher Curl,Biceps,33,10,330,30,2022-07-24
+2022-07-28,EZ-Bar Preacher Curl,Biceps,33,7,231,30,2022-07-24
+2022-07-28,EZ-Bar Preacher Curl,Biceps,33,7,231,30,2022-07-24
+2022-07-28,Seated Incline Dumbbell Curl,Biceps,12.5,10,125,30,2022-07-24
+2022-07-28,Seated Incline Dumbbell Curl,Biceps,12.5,9,112.5,30,2022-07-24
+2022-07-28,Seated Incline Dumbbell Curl,Biceps,12.5,8,100,30,2022-07-24
+2022-07-28,Seated Incline Dumbbell Curl,Biceps,12.5,8,100,30,2022-07-24
+2022-07-29,Barbell Squat,Legs,60,7,420,30,2022-07-24
+2022-07-29,Barbell Squat,Legs,60,7,420,30,2022-07-24
+2022-07-29,Barbell Squat,Legs,110,5,550,30,2022-07-24
+2022-07-29,Barbell Squat,Legs,110,5,550,30,2022-07-24
+2022-07-29,Barbell Squat,Legs,110,5,550,30,2022-07-24
+2022-07-29,Bulgarian Squat,Legs,30,10,300,30,2022-07-24
+2022-07-29,Bulgarian Squat,Legs,30,10,300,30,2022-07-24
+2022-07-29,Bulgarian Squat,Legs,30,10,300,30,2022-07-24
+2022-07-29,Leg Press,Legs,210,7,1470,30,2022-07-24
+2022-07-29,Leg Press,Legs,190,8,1520,30,2022-07-24
+2022-07-29,Leg Press,Legs,190,8,1520,30,2022-07-24
+2022-07-29,Leg Press,Legs,190,7,1330,30,2022-07-24
+2022-07-29,Leg Extension Machine,Legs,35,10,350,30,2022-07-24
+2022-07-29,Leg Extension Machine,Legs,35,10,350,30,2022-07-24
+2022-07-29,Leg Extension Machine,Legs,40,10,400,30,2022-07-24
+2022-07-29,Leg Extension Machine,Legs,40,10,400,30,2022-07-24
+2022-07-29,Seated Adductor,Legs,55,12,660,30,2022-07-24
+2022-07-29,Seated Adductor,Legs,55,12,660,30,2022-07-24
+2022-07-29,Seated Adductor,Legs,55,12,660,30,2022-07-24
+2022-07-29,Seated Adductor,Legs,55,12,660,30,2022-07-24
+2022-07-29,Seated Calf Raise Machine,Legs,70,14,980,30,2022-07-24
+2022-07-29,Seated Calf Raise Machine,Legs,90,12,1080,30,2022-07-24
+2022-07-29,Seated Calf Raise Machine,Legs,90,12,1080,30,2022-07-24
+2022-07-29,Seated Calf Raise Machine,Legs,90,12,1080,30,2022-07-24
+2022-07-29,Incline Barbell Bench Press,Chest,55,10,550,30,2022-07-24
+2022-07-29,Incline Barbell Bench Press,Chest,55,10,550,30,2022-07-24
+2022-07-29,Incline Barbell Bench Press,Chest,55,10,550,30,2022-07-24
+2022-07-29,Incline Barbell Bench Press,Chest,55,8,440,30,2022-07-24
+2022-07-29,Lateral Machine Raise (1 Arm),Shoulders,10,12,120,30,2022-07-24
+2022-07-29,Lateral Machine Raise (1 Arm),Shoulders,10,12,120,30,2022-07-24
+2022-07-29,Lateral Machine Raise (1 Arm),Shoulders,10,12,120,30,2022-07-24
+2022-07-29,Lateral Machine Raise (1 Arm),Shoulders,10,12,120,30,2022-07-24
+2022-07-30,Triceps Extension,Triceps,50,12,600,30,2022-07-24
+2022-07-30,Triceps Extension,Triceps,50,12,600,30,2022-07-24
+2022-07-30,Triceps Extension,Triceps,50,12,600,30,2022-07-24
+2022-07-30,Triceps Extension,Triceps,50,12,600,30,2022-07-24
+2022-07-30,Dumbbell Curl Alternate,Biceps,10,15,150,30,2022-07-24
+2022-07-30,Dumbbell Curl Alternate,Biceps,10,15,150,30,2022-07-24
+2022-07-30,Dumbbell Curl Alternate,Biceps,12.5,13,162.5,30,2022-07-24
+2022-07-30,Triceps Press Smith,Triceps,40,11,440,30,2022-07-24
+2022-07-30,Triceps Press Smith,Triceps,50,10,500,30,2022-07-24
+2022-07-30,Triceps Press Smith,Triceps,50,10,500,30,2022-07-24
+2022-07-30,Triceps Press Smith,Triceps,50,8,400,30,2022-07-24
+2022-07-30,Biceps Curl Roman Bar,Biceps,25,12,300,30,2022-07-24
+2022-07-30,Biceps Curl Roman Bar,Biceps,25,10,250,30,2022-07-24
+2022-07-30,Biceps Curl Roman Bar,Biceps,25,11,275,30,2022-07-24
+2022-07-30,Biceps Curl Roman Bar,Biceps,25,11,275,30,2022-07-24
+2022-07-30,Dips,Triceps,1,13,13,30,2022-07-24
+2022-07-30,Dips,Triceps,1,13,13,30,2022-07-24
+2022-07-30,Dips,Triceps,1,8,8,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,17.5,8,140,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,17.5,8,140,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,15,8,120,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,12.5,6,75,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,10,6,60,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,7.5,6,45,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,5,6,30,30,2022-07-24
+2022-07-30,Biceps Dumbbell Curl,Biceps,2.5,6,15,30,2022-07-24
+2022-08-01,Flat Barbell Bench Press,Chest,50,10,500,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,50,10,500,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,75,3,225,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,80,3,240,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,90,1,90,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,100,3,300,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,100,3,300,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,100,2,200,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,65,10,650,31,2022-07-31
+2022-08-01,Flat Barbell Bench Press,Chest,65,10,650,31,2022-07-31
+2022-08-01,Incline Dumbbell Bench Press,Chest,27.5,8,220,31,2022-07-31
+2022-08-01,Incline Dumbbell Bench Press,Chest,27.5,8,220,31,2022-07-31
+2022-08-01,Incline Dumbbell Bench Press,Chest,27.5,8,220,31,2022-07-31
+2022-08-01,Incline Dumbbell Bench Press,Chest,27.5,7,192.5,31,2022-07-31
+2022-08-01,Seated Machine Fly,Chest,50,12,600,31,2022-07-31
+2022-08-01,Seated Machine Fly,Chest,50,12,600,31,2022-07-31
+2022-08-01,Seated Machine Fly,Chest,55,12,660,31,2022-07-31
+2022-08-01,Seated Machine Fly,Chest,55,12,660,31,2022-07-31
+2022-08-01,Cable Crossover,Chest,30,10,300,31,2022-07-31
+2022-08-01,Cable Crossover,Chest,30,10,300,31,2022-07-31
+2022-08-01,Cable Crossover,Chest,30,10,300,31,2022-07-31
+2022-08-01,Cable Crossover,Chest,30,7,210,31,2022-07-31
+2022-08-01,Arnold Dumbbell Press (1 Arm),Shoulders,15,15,225,31,2022-07-31
+2022-08-01,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,31,2022-07-31
+2022-08-01,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,31,2022-07-31
+2022-08-01,Lateral Dumbbell Raise,Shoulders,12.5,12,150,31,2022-07-31
+2022-08-01,Lateral Dumbbell Raise,Shoulders,12.5,12,150,31,2022-07-31
+2022-08-01,Lateral Dumbbell Raise,Shoulders,12.5,10,125,31,2022-07-31
+2022-08-01,Cable Face Pull,Shoulders,50,15,750,31,2022-07-31
+2022-08-01,Cable Face Pull,Shoulders,50,15,750,31,2022-07-31
+2022-08-01,Cable Face Pull,Shoulders,55,13,715,31,2022-07-31
+2022-08-01,Cable Face Pull,Shoulders,55,12,660,31,2022-07-31
+2022-08-01,EZ-Bar Skullcrusher,Triceps,33,13,429,31,2022-07-31
+2022-08-01,EZ-Bar Skullcrusher,Triceps,33,12,396,31,2022-07-31
+2022-08-01,EZ-Bar Skullcrusher,Triceps,33,12,396,31,2022-07-31
+2022-08-01,EZ-Bar Skullcrusher,Triceps,33,12,396,31,2022-07-31
+2022-08-01,Rope Push Down,Triceps,60,12,720,31,2022-07-31
+2022-08-01,Rope Push Down,Triceps,60,10,600,31,2022-07-31
+2022-08-01,Rope Push Down,Triceps,60,11,660,31,2022-07-31
+2022-08-01,Rope Push Down,Triceps,60,9,540,31,2022-07-31
+2022-08-02,Deadlift,Back,80,4,320,31,2022-07-31
+2022-08-02,Deadlift,Back,100,3,300,31,2022-07-31
+2022-08-02,Deadlift,Back,120,2,240,31,2022-07-31
+2022-08-02,Deadlift,Back,140,1,140,31,2022-07-31
+2022-08-02,Deadlift,Back,150,3,450,31,2022-07-31
+2022-08-02,Deadlift,Back,150,3,450,31,2022-07-31
+2022-08-02,Deadlift,Back,150,3,450,31,2022-07-31
+2022-08-02,Hip Thrust,Legs,80,10,800,31,2022-07-31
+2022-08-02,Hip Thrust,Legs,100,10,1000,31,2022-07-31
+2022-08-02,Hip Thrust,Legs,100,10,1000,31,2022-07-31
+2022-08-02,Hip Thrust,Legs,100,9,900,31,2022-07-31
+2022-08-02,Deadlift (1 Leg),Legs,20,10,200,31,2022-07-31
+2022-08-02,Deadlift (1 Leg),Legs,20,10,200,31,2022-07-31
+2022-08-02,Deadlift (1 Leg),Legs,20,10,200,31,2022-07-31
+2022-08-02,Nordic Curl,Legs,1,10,10,31,2022-07-31
+2022-08-02,Nordic Curl,Legs,1,12,12,31,2022-07-31
+2022-08-02,Nordic Curl,Legs,1,12,12,31,2022-07-31
+2022-08-02,Lying Leg Curl Machine,Legs,30,10,300,31,2022-07-31
+2022-08-02,Lying Leg Curl Machine,Legs,30,10,300,31,2022-07-31
+2022-08-02,Lying Leg Curl Machine,Legs,30,10,300,31,2022-07-31
+2022-08-02,Lying Leg Curl Machine,Legs,30,10,300,31,2022-07-31
+2022-08-02,Back Extension,Back,1,15,15,31,2022-07-31
+2022-08-02,Back Extension,Back,1,15,15,31,2022-07-31
+2022-08-02,Back Extension,Back,1,15,15,31,2022-07-31
+2022-08-02,Back Extension,Back,1,15,15,31,2022-07-31
+2022-08-02,Seated Cable Row,Back,60,12,720,31,2022-07-31
+2022-08-02,Seated Cable Row,Back,60,12,720,31,2022-07-31
+2022-08-02,Seated Cable Row,Back,60,12,720,31,2022-07-31
+2022-08-02,Seated Cable Row,Back,60,10,600,31,2022-07-31
+2022-08-02,Lat Pulldown (1 Arm Seated),Back,60,12,720,31,2022-07-31
+2022-08-02,Lat Pulldown (1 Arm Seated),Back,60,12,720,31,2022-07-31
+2022-08-02,Lat Pulldown (1 Arm Seated),Back,60,12,720,31,2022-07-31
+2022-08-02,Lat Pulldown (1 Arm Seated),Back,60,12,720,31,2022-07-31
+2022-08-04,Inverted Row TRX,Back,1,10,10,31,2022-07-31
+2022-08-04,Inverted Row TRX,Back,1,10,10,31,2022-07-31
+2022-08-04,Inverted Row TRX,Back,1,10,10,31,2022-07-31
+2022-08-04,Inverted Row TRX,Back,1,10,10,31,2022-07-31
+2022-08-04,Barbell Row,Back,60,10,600,31,2022-07-31
+2022-08-04,Barbell Row,Back,70,6,420,31,2022-07-31
+2022-08-04,Barbell Row,Back,90,5,450,31,2022-07-31
+2022-08-04,Barbell Row,Back,90,5,450,31,2022-07-31
+2022-08-04,Barbell Row,Back,90,5,450,31,2022-07-31
+2022-08-04,Barbell Row,Back,90,6,540,31,2022-07-31
+2022-08-04,Lat Pulldown,Back,65,10,650,31,2022-07-31
+2022-08-04,Lat Pulldown,Back,65,10,650,31,2022-07-31
+2022-08-04,Lat Pulldown,Back,65,10,650,31,2022-07-31
+2022-08-04,Lat Pulldown,Back,65,10,650,31,2022-07-31
+2022-08-04,Dumbbell Row (1 Arm),Back,35,14,490,31,2022-07-31
+2022-08-04,Dumbbell Row (1 Arm),Back,35,14,490,31,2022-07-31
+2022-08-04,Dumbbell Row (1 Arm),Back,35,13,455,31,2022-07-31
+2022-08-04,Dumbbell Row (1 Arm),Back,35,13,455,31,2022-07-31
+2022-08-04,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,31,2022-07-31
+2022-08-04,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,31,2022-07-31
+2022-08-04,Dumbbell Curl (1 Arm),Biceps,17.5,12,210,31,2022-07-31
+2022-08-04,EZ-Bar Preacher Curl,Biceps,33,8,264,31,2022-07-31
+2022-08-04,EZ-Bar Preacher Curl,Biceps,33,10,330,31,2022-07-31
+2022-08-04,EZ-Bar Preacher Curl,Biceps,33,7,231,31,2022-07-31
+2022-08-04,EZ-Bar Preacher Curl,Biceps,33,8,264,31,2022-07-31
+2022-08-04,Seated Incline Dumbbell Curl,Biceps,12.5,12,150,31,2022-07-31
+2022-08-04,Seated Incline Dumbbell Curl,Biceps,12.5,10,125,31,2022-07-31
+2022-08-04,Seated Incline Dumbbell Curl,Biceps,12.5,10,125,31,2022-07-31
+2022-08-04,Seated Incline Dumbbell Curl,Biceps,12.5,8,100,31,2022-07-31
+2022-08-05,Barbell Squat,Legs,70,6,420,31,2022-07-31
+2022-08-05,Barbell Squat,Legs,90,3,270,31,2022-07-31
+2022-08-05,Barbell Squat,Legs,110,4,440,31,2022-07-31
+2022-08-05,Barbell Squat,Legs,110,4,440,31,2022-07-31
+2022-08-05,Barbell Squat,Legs,110,4,440,31,2022-07-31
+2022-08-05,Barbell Squat,Legs,110,4,440,31,2022-07-31
+2022-08-05,Bulgarian Squat,Legs,35,10,350,31,2022-07-31
+2022-08-05,Bulgarian Squat,Legs,35,10,350,31,2022-07-31
+2022-08-05,Bulgarian Squat,Legs,35,10,350,31,2022-07-31
+2022-08-05,Leg Press,Legs,160,10,1600,31,2022-07-31
+2022-08-05,Leg Press,Legs,160,10,1600,31,2022-07-31
+2022-08-05,Leg Press,Legs,160,10,1600,31,2022-07-31
+2022-08-05,Leg Press,Legs,160,10,1600,31,2022-07-31
+2022-08-05,Leg Extension Machine,Legs,40,10,400,31,2022-07-31
+2022-08-05,Leg Extension Machine,Legs,40,10,400,31,2022-07-31
+2022-08-05,Leg Extension Machine,Legs,40,10,400,31,2022-07-31
+2022-08-05,Leg Extension Machine,Legs,40,10,400,31,2022-07-31
+2022-08-05,Seated Adductor,Legs,55,17,935,31,2022-07-31
+2022-08-05,Seated Adductor,Legs,55,17,935,31,2022-07-31
+2022-08-05,Seated Adductor,Legs,55,14,770,31,2022-07-31
+2022-08-05,Seated Adductor,Legs,55,14,770,31,2022-07-31
+2022-08-05,Standing Calf Raise Machine,Legs,90,12,1080,31,2022-07-31
+2022-08-05,Standing Calf Raise Machine,Legs,90,13,1170,31,2022-07-31
+2022-08-05,Standing Calf Raise Machine,Legs,100,12,1200,31,2022-07-31
+2022-08-05,Standing Calf Raise Machine,Legs,100,12,1200,31,2022-07-31
+2022-08-05,Incline Barbell Bench Press,Chest,65,10,650,31,2022-07-31
+2022-08-05,Incline Barbell Bench Press,Chest,65,10,650,31,2022-07-31
+2022-08-05,Incline Barbell Bench Press,Chest,60,8,480,31,2022-07-31
+2022-08-05,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,31,2022-07-31
+2022-08-05,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,31,2022-07-31
+2022-08-05,Lateral Machine Raise (1 Arm),Shoulders,10,10,100,31,2022-07-31
+2022-08-06,Triceps Extension,Triceps,50,12,600,31,2022-07-31
+2022-08-06,Triceps Extension,Triceps,40,12,480,31,2022-07-31
+2022-08-06,Triceps Extension,Triceps,40,12,480,31,2022-07-31
+2022-08-06,Triceps Extension,Triceps,40,12,480,31,2022-07-31
+2022-08-06,Dumbbell Curl Alternate,Biceps,10,15,150,31,2022-07-31
+2022-08-06,Dumbbell Curl Alternate,Biceps,10,15,150,31,2022-07-31
+2022-08-06,Dumbbell Curl Alternate,Biceps,10,15,150,31,2022-07-31
+2022-08-06,Triceps Press Smith,Triceps,50,11,550,31,2022-07-31
+2022-08-06,Triceps Press Smith,Triceps,50,10,500,31,2022-07-31
+2022-08-06,Triceps Press Smith,Triceps,40,10,400,31,2022-07-31
+2022-08-06,Triceps Press Smith,Triceps,40,10,400,31,2022-07-31
+2022-08-06,Biceps Curl Roman Bar,Biceps,25,11,275,31,2022-07-31
+2022-08-06,Biceps Curl Roman Bar,Biceps,25,11,275,31,2022-07-31
+2022-08-06,Biceps Curl Roman Bar,Biceps,25,11,275,31,2022-07-31
+2022-08-06,Biceps Curl Roman Bar,Biceps,25,10,250,31,2022-07-31
+2022-08-06,Dips,Triceps,1,13,13,31,2022-07-31
+2022-08-06,Dips,Triceps,1,12,12,31,2022-07-31
+2022-08-06,Dips,Triceps,1,10,10,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,17.5,8,140,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,17.5,8,140,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,17.5,8,140,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,15,6,90,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,12.5,6,75,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,10,6,60,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,7.5,6,45,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,5,6,30,31,2022-07-31
+2022-08-06,Biceps Dumbbell Curl,Biceps,2.5,6,15,31,2022-07-31
+2022-08-06,Cable Triceps Extension (1 Arm),Triceps,20,12,240,31,2022-07-31
+2022-08-06,Cable Triceps Extension (1 Arm),Triceps,20,6,120,31,2022-07-31
+2022-08-06,Cable Triceps Extension (1 Arm),Triceps,20,12,240,31,2022-07-31
+2022-08-06,Cable Triceps Extension (1 Arm),Triceps,20,4,80,31,2022-07-31
+2022-08-08,Flat Barbell Bench Press,Chest,75,4,300,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,85,2,170,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,95,1,95,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,100,2,200,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,100,2,200,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,100,2,200,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,75,9,675,32,2022-08-07
+2022-08-08,Flat Barbell Bench Press,Chest,75,8,600,32,2022-08-07
+2022-08-08,Incline Dumbbell Bench Press,Chest,27.5,8,220,32,2022-08-07
+2022-08-08,Incline Dumbbell Bench Press,Chest,27.5,7,192.5,32,2022-08-07
+2022-08-08,Seated Machine Fly,Chest,50,12,600,32,2022-08-07
+2022-08-08,Seated Machine Fly,Chest,50,12,600,32,2022-08-07
+2022-08-08,Seated Machine Fly,Chest,55,12,660,32,2022-08-07
+2022-08-08,Seated Machine Fly,Chest,60,10,600,32,2022-08-07
+2022-08-08,Cable Crossover Superior,Chest,15,10,150,32,2022-08-07
+2022-08-08,Cable Crossover Superior,Chest,15,10,150,32,2022-08-07
+2022-08-08,Cable Crossover Superior,Chest,15,10,150,32,2022-08-07
+2022-08-08,Cable Crossover Superior,Chest,15,10,150,32,2022-08-07
+2022-08-08,Arnold Dumbbell Press (1 Arm),Shoulders,15,15,225,32,2022-08-07
+2022-08-08,Arnold Dumbbell Press (1 Arm),Shoulders,15,13,195,32,2022-08-07
+2022-08-08,Arnold Dumbbell Press (1 Arm),Shoulders,15,12,180,32,2022-08-07
+2022-08-08,Lateral Dumbbell Raise,Shoulders,12.5,10,125,32,2022-08-07
+2022-08-08,Lateral Dumbbell Raise,Shoulders,12.5,10,125,32,2022-08-07
+2022-08-08,Lateral Dumbbell Raise,Shoulders,12.5,10,125,32,2022-08-07
+2022-08-08,Cable Face Pull,Shoulders,45,15,675,32,2022-08-07
+2022-08-08,Cable Face Pull,Shoulders,45,15,675,32,2022-08-07
+2022-08-08,Cable Face Pull,Shoulders,45,15,675,32,2022-08-07
+2022-08-08,Cable Face Pull,Shoulders,45,15,675,32,2022-08-07
+2022-08-08,EZ-Bar Skullcrusher,Triceps,33,13,429,32,2022-08-07
+2022-08-08,EZ-Bar Skullcrusher,Triceps,33,12,396,32,2022-08-07
+2022-08-08,EZ-Bar Skullcrusher,Triceps,33,12,396,32,2022-08-07
+2022-08-08,EZ-Bar Skullcrusher,Triceps,33,12,396,32,2022-08-07
+2022-08-08,Rope Push Down,Triceps,50,12,600,32,2022-08-07
+2022-08-08,Rope Push Down,Triceps,60,12,720,32,2022-08-07
+2022-08-08,Rope Push Down,Triceps,65,9,585,32,2022-08-07
+2022-08-08,Rope Push Down,Triceps,65,8,520,32,2022-08-07
+2022-08-10,Deadlift,Back,100,3,300,32,2022-08-07
+2022-08-10,Deadlift,Back,120,2,240,32,2022-08-07
+2022-08-10,Deadlift,Back,140,1,140,32,2022-08-07
+2022-08-10,Deadlift,Back,150,1,150,32,2022-08-07
+2022-08-10,Deadlift,Back,150,1,150,32,2022-08-07
+2022-08-10,Deadlift,Back,150,1,150,32,2022-08-07
+2022-08-10,Deadlift,Back,150,1,150,32,2022-08-07
+2022-08-10,Deadlift,Back,150,1,150,32,2022-08-07
+2022-08-10,Hip Thrust,Legs,100,8,800,32,2022-08-07
+2022-08-10,Hip Thrust,Legs,100,10,1000,32,2022-08-07
+2022-08-10,Hip Thrust,Legs,100,10,1000,32,2022-08-07
+2022-08-10,Standing Leg Curl Machine (1 Leg),Legs,15,12,180,32,2022-08-07
+2022-08-10,Standing Leg Curl Machine (1 Leg),Legs,15,12,180,32,2022-08-07
+2022-08-10,Standing Leg Curl Machine (1 Leg),Legs,20,10,200,32,2022-08-07
+2022-08-10,Nordic Curl,Legs,1,10,10,32,2022-08-07
+2022-08-10,Nordic Curl,Legs,1,9,9,32,2022-08-07
+2022-08-10,Nordic Curl,Legs,1,9,9,32,2022-08-07
+2022-08-10,Standing Calf Raise Machine,Legs,100,12,1200,32,2022-08-07
+2022-08-10,Standing Calf Raise Machine,Legs,100,12,1200,32,2022-08-07
+2022-08-10,Standing Calf Raise Machine,Legs,110,12,1320,32,2022-08-07
+2022-08-10,Standing Calf Raise Machine,Legs,110,12,1320,32,2022-08-07
+2022-08-10,Back Extension,Back,1,15,15,32,2022-08-07
+2022-08-10,Back Extension,Back,1,15,15,32,2022-08-07
+2022-08-10,Back Extension,Back,1,15,15,32,2022-08-07
+2022-08-10,Back Extension,Back,1,15,15,32,2022-08-07
+2022-08-12,Pull Up,Back,1,4,4,32,2022-08-07
+2022-08-12,Pull Up,Back,1,4,4,32,2022-08-07
+2022-08-12,Pull Up,Back,1,4,4,32,2022-08-07
+2022-08-12,Pull Up,Back,1,4,4,32,2022-08-07
+2022-08-12,Barbell Row,Back,60,10,600,32,2022-08-07
+2022-08-12,Barbell Row,Back,80,8,640,32,2022-08-07
+2022-08-12,Barbell Row,Back,80,8,640,32,2022-08-07
+2022-08-12,Barbell Row,Back,80,9,720,32,2022-08-07
+2022-08-12,Lat Pulldown,Back,65,10,650,32,2022-08-07
+2022-08-12,Lat Pulldown,Back,65,10,650,32,2022-08-07
+2022-08-12,Lat Pulldown,Back,65,10,650,32,2022-08-07
+2022-08-12,Lat Pulldown,Back,65,10,650,32,2022-08-07
+2022-08-12,Dumbbell Row (1 Arm),Back,40,10,400,32,2022-08-07
+2022-08-12,Dumbbell Row (1 Arm),Back,40,10,400,32,2022-08-07
+2022-08-12,Dumbbell Row (1 Arm),Back,40,10,400,32,2022-08-07
+2022-08-12,EZ-Bar Curl,Biceps,28,12,336,32,2022-08-07
+2022-08-12,EZ-Bar Curl,Biceps,28,12,336,32,2022-08-07
+2022-08-12,EZ-Bar Curl,Biceps,28,12,336,32,2022-08-07
+2022-08-12,EZ-Bar Curl,Biceps,28,12,336,32,2022-08-07
+2022-08-12,Dumbbell Hammer Spider Curl,Biceps,20,10,200,32,2022-08-07
+2022-08-12,Dumbbell Hammer Spider Curl,Biceps,20,10,200,32,2022-08-07
+2022-08-12,Dumbbell Hammer Spider Curl,Biceps,20,10,200,32,2022-08-07
+2022-08-12,Dumbbell Hammer Spider Curl,Biceps,20,10,200,32,2022-08-07
+2022-08-12,Biceps Dumbbell Curl,Biceps,30,8,240,32,2022-08-07
+2022-08-12,Biceps Dumbbell Curl,Biceps,30,8,240,32,2022-08-07
+2022-08-12,Biceps Dumbbell Curl,Biceps,30,8,240,32,2022-08-07
+2022-08-12,Hanging Knee Raise,Abs,1,10,10,32,2022-08-07
+2022-08-12,Hanging Knee Raise,Abs,1,10,10,32,2022-08-07
+2022-08-12,Hanging Knee Raise,Abs,1,10,10,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,70,5,350,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,90,2,180,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,100,2,200,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,110,5,550,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,110,5,550,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,110,5,550,32,2022-08-07
+2022-08-13,Barbell Squat,Legs,110,5,550,32,2022-08-07
+2022-08-13,Bulgarian Squat,Legs,30,10,300,32,2022-08-07
+2022-08-13,Bulgarian Squat,Legs,30,10,300,32,2022-08-07
+2022-08-13,Bulgarian Squat,Legs,30,10,300,32,2022-08-07
+2022-08-13,Leg Press,Legs,160,10,1600,32,2022-08-07
+2022-08-13,Leg Press,Legs,180,8,1440,32,2022-08-07
+2022-08-13,Leg Press,Legs,180,8,1440,32,2022-08-07
+2022-08-13,Leg Press,Legs,180,8,1440,32,2022-08-07
+2022-08-13,Seated Adductor,Legs,55,14,770,32,2022-08-07
+2022-08-13,Seated Adductor,Legs,55,17,935,32,2022-08-07
+2022-08-13,Seated Adductor,Legs,55,15,825,32,2022-08-07
+2022-08-13,Seated Adductor,Legs,55,15,825,32,2022-08-07
+2022-08-13,Standing Calf Raise Machine,Legs,100,12,1200,32,2022-08-07
+2022-08-13,Standing Calf Raise Machine,Legs,110,12,1320,32,2022-08-07
+2022-08-13,Standing Calf Raise Machine,Legs,120,10,1200,32,2022-08-07
+2022-08-13,Standing Calf Raise Machine,Legs,120,12,1440,32,2022-08-07
+2022-08-13,Standing Calf Raise Machine,Legs,120,12,1440,32,2022-08-07
